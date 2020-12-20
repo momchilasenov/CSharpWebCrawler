@@ -1,0 +1,3171 @@
+﻿
+<!DOCTYPE html>
+<!--[if lt IE 9]> <html class='ie' lang='bg'> <![endif]-->
+<!--[if gt IE 8]> <html class='ie9' lang='bg'> <![endif]-->
+<!--[if !IE]><!--><html lang='bg' xml:lang='bg' xmlns='http://www.w3.org/1999/xhtml'><!--<![endif]-->
+<head>
+<meta charset='utf-8'>
+<meta content='IE=edge' http-equiv='X-UA-Compatible'>
+<title>
+Лаптопи  | Laptop.bg - Технологията с теб</title>
+<link rel="stylesheet" media="all" href="/assets/products-application-1539876fe361f4096ae638ab4e38b204270c0812ea00893a7c5d03470edde081.css" /><link as='image' href='/assets/laptop/logo-94b425faa193bb903bfd5582dbbbbc1b6bef1fbd3ff8e9bbb9b7bbbf8cdcb999.svg' rel='preload' type='image/svg+xml'>
+<link as='font' crossorigin href='/assets/DaxlinePro/daxlinepro-regular-e9d5ef4f13fed0b5ec8ebe7203b3b171d5f27505fb572b3bc094ece1d4f7ff49.woff2' rel='preload' type='font/woff2'>
+<link as='font' crossorigin href='/assets/DaxlinePro/daxlinepro-bold-d7e8396ea1891da7663897e189adf5e9ec078fdd9c3a08069ad7c8fd1f1667e1.woff2' rel='preload' type='font/woff2'>
+<link as='font' crossorigin href='/assets/FontAwsome/fontawesome-webfont-7dacf83f51179de8d7980a513e67ab3a08f2c6272bb5946df8fd77c0d1763b73.woff2' rel='preload' type='font/woff2'>
+<script src="/assets/products-application-e8ace85fbe913334444c2c56972a7830fbb70304e8e20f81e93b8e8875d2bd06.js" defer="defer"></script><script src="/assets/list-1470b3a5b4ad6f95c7328b8538ed1de7ee4200f6e173b8e08ed0b1caad604593.js" defer="defer"></script><script src="/assets/products-common-a32ab4c00c72f88f8e6d6369cf45a877d63af5e4e995d8094644c24fd9c94b75.js" defer="defer"></script><script>
+<!-- / Load stylesheets asynchronously -->
+/*!
+loadCSS: load a CSS file asynchronously.
+[c]2014 @scottjehl, Filament Group, Inc.
+Licensed MIT
+https://github.com/filamentgroup/loadCSS
+*/
+function loadCSS( href, before, media ){
+  "use strict";
+  var ss = window.document.createElement( "link" );
+  var ref = before || window.document.getElementsByTagName( "script" )[ 0 ];
+  ss.rel = "stylesheet";
+  ss.href = href;
+  ss.media = "only x";
+  ref.parentNode.insertBefore( ss, ref );
+  setTimeout( function(){
+    ss.media = media || "all";
+  } );
+  return ss;
+};
+loadCSS('/assets/brands_1607012795.css');var scripts = [];
+window.intercomSettings = {
+  app_id: "vwyyml4f"
+};
+</script>
+<!--[if lt IE 9]>
+<script>
+window.html5 = {
+  elements : 'abbr article aside audio bdi canvas data datalist details dialog figcaption figure footer header hgroup main mark meter nav output progress section summary template time video svg text tspan'
+};
+</script>
+<script src="/assets/products-ie-008efc5aa3d5895e89a4dce84e6f91ea0c976f918f67ae0f0bc705c7048bd6e2.js"></script><![endif]-->
+<meta content='index,follow,noodp,noydir' name='robots'>
+<meta content='Списък на предлаганите лаптопи от laptop.bg' name='description'>
+<meta content='Лаптопи, Acer, Alienware, Apple, Asus, Dell, Fujitsu, Gigabyte, HP, Huawei, Laptop.bg, Lenovo, Microsoft, MSI, Packard Bell, Prestigio, Samsung, Sony, Toshiba, WESC, Xiaomi' name='keywords'>
+<meta content='width=device-width, initial-scale=1' name='viewport'>
+<meta content='laptop.bg' property='og:site_name'>
+<meta content='Лаптопи ' property='og:title'>
+<meta content='product.group' property='og:type'>
+<meta content='https://laptop.bg/laptops-all?utf8=%E2%9C%93&amp;price_btw_all=all&amp;search%5Bprice_gte%5D=&amp;search%5Bprice_lte%5D=&amp;search%5Bbrand_id_in%5D%5B%5D=1239602138&amp;type_laptop_id_in_all=all&amp;used_for_type_id_in_all=all&amp;basic_color_id_in_all=all&amp;cpu_type_id_in_all=all&amp;ram_type_capacity_id_in_all=all&amp;videocard_version_id_in_all=all&amp;vga_type_id_in_all=all&amp;hdd_type_size_id_in_all=all&amp;ssd_size_id_in_all=all&amp;display_size_type_btw_all=all&amp;display_type_id_in_all=all&amp;display_refreshrate_id_in_all=all&amp;resolution_size_id_in_all=all&amp;battery_type_id_in_all=all&amp;weight_type_btw_all=all&amp;os_type_id_in_all=all&amp;warranty_size_btw_all=all&amp;per_page=25&amp;search%5Bs%5D=promo_asc' property='og:url'>
+<meta content='https://laptop.bg/assets/fb/laptop_fb-3e7ac18866a815d4dac085a8066471534e1f2900626c2409bc3ad3d005d3bc91.jpg' property='og:image'>
+<meta content='1000' property='og:image:width'>
+<meta content='525' property='og:image:height'>
+<meta content='Списък на предлаганите лаптопи от laptop.bg' property='og:description'>
+<meta content='710816341' property='fb:admins'>
+<meta content='1010534462369448' property='fb:app_id'>
+<link href='/assets/laptop/apple-touch-icon-4270d30502f816b2f25874690bdd3f00048a8a64105103ddf18f1e80f0abfc02.png' rel='apple-touch-icon-precomposed' sizes='180x180'>
+<link href='/assets/laptop/favicon-64x64-a72ceef742aa1b15cff46135e5f27268ec59c6ffdf33010cbd4a53aec492386d.png' rel='icon' sizes='64x64' type='image/png'>
+<link href='/assets/laptop/favicon-fadb5511b43a83fb555df0931a76f84fef4a8eb71b75291bbf3c8ae9accb6494.ico' rel='shortcut icon'>
+<meta content='Laptop.bg - Технологията с теб' name='application-name'>
+<meta content='#30425A' name='msapplication-TileColor'>
+<meta content='/assets/laptop/mstile-144x144-a2a92c2d9d1e883ce78f4765e67d70c49bda052e675ff6e9c9af3bcbdfd90493.png' name='msapplication-TileImage'>
+<meta name="facebook-domain-verification" content="0f3swn9lfcj6gs2hkeh6c20plo62p0" />
+<meta name="google-site-verification" content="CniWrbFeJTtjYn3kqCBkC4Q9y2eFC4gTtQSJ9C5bMWo" /><script>
+    dataLayer = window.dataLayer || [];
+    
+    
+          var google_tag_params = {
+        ecomm_prodid: [85348,86306,85697,86307,85344,85346,85345,85342,85702,86332,82933,85341,83404,82927,85577,86434],
+        ecomm_pagetype: "category",
+        ecomm_totalvalue: [1399,1699,1799,1899,1999,2099,2199,2299,2299,2399,2799,3099,5499,6999,1499,2599],
+        dynx_itemid: [85348,86306,85697,86307,85344,85346,85345,85342,85702,86332,82933,85341,83404,82927,85577,86434],
+        dynx_pagetype: "searchresults",
+        
+      };
+      dataLayer.push({
+        remarketing_params: google_tag_params
+      })
+
+          
+      
+
+
+    </script>
+    <!-- Google Tag Manager -->
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-KM2FFLB');</script>
+    <!-- End Google Tag Manager --><meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="fJ4aFYUKZLkysBWoW/rbFSi3MOV3eaEAf7Uinbh+TPciFkf5S3N0ZtdKlEb8VfqofQ4yQET5QlC53oLrBG5/uQ==" /></head>
+<body class='no-js non-fixed laptop listing new-look' data-session='{"id":"53f72fa1fd8941621a09cc1f95409622","authority":"https://laptop.bg/identity","resource":"/identity","firstRequest":false,"debug":false}'>
+<script>
+document.body.className = document.body.className.replace('no-js', 'js');
+</script>
+<!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KM2FFLB"
+    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) --><div id='top-promo-bar'>
+<p><a href="https://laptop.bg/pages/notice">Важно: Работни и почивни дни по време на коледните празници</a></p>
+<a class="icon-only fa-times" id="close-promo-bar" href="/laptops-all?basic_color_id_in_all=all&amp;battery_type_id_in_all=all&amp;cpu_type_id_in_all=all&amp;display_refreshrate_id_in_all=all&amp;display_size_type_btw_all=all&amp;display_type_id_in_all=all&amp;hdd_type_size_id_in_all=all&amp;os_type_id_in_all=all&amp;per_page=25&amp;price_btw_all=all&amp;promobar=true&amp;ram_type_capacity_id_in_all=all&amp;resolution_size_id_in_all=all&amp;search%5Bbrand_id_in%5D%5B%5D=1239602138&amp;search%5Bprice_gte%5D=&amp;search%5Bprice_lte%5D=&amp;search%5Bs%5D=promo_asc&amp;ssd_size_id_in_all=all&amp;type_laptop_id_in_all=all&amp;used_for_type_id_in_all=all&amp;utf8=%E2%9C%93&amp;vga_type_id_in_all=all&amp;videocard_version_id_in_all=all&amp;warranty_size_btw_all=all&amp;weight_type_btw_all=all">Затвори</a>
+</div>
+
+<nav class='accessory'>
+<div class='frame'>
+<ul>
+<li>
+<a href="https://laptop.bg/discounts">Преоценени продукти</a></li><li><a href="https://laptop.bg/pages/delivery">Доставка</a></li><li><a href="https://laptop.bg/pages/pay">Плащане</a></li><li><a href="https://laptop.bg/pages/smartcare">Счупване и Намокряне</a></li><li><a href="https://laptop.bg/pages/contact">Контакти</a>
+</li>
+<li class='warning'><a href="/pages/contact">Празнично работно време</a></li>
+</ul>
+</div>
+</nav>
+<header id='branding' role='banner'>
+<div class='frame'>
+<ul class='contacts'>
+<li><a class='icon-before fa-phone' href='tel:+35924901111'>02 490 11 11</a></li>
+</ul>
+<h1>
+<a href='/' id='logo' title='Лаптопи от laptop.bg'>
+<img alt="Лаптопи от laptop.bg" src="/assets/laptop/logo-94b425faa193bb903bfd5582dbbbbc1b6bef1fbd3ff8e9bbb9b7bbbf8cdcb999.svg" />
+</a>
+</h1>
+<nav class='header-nav'>
+<div class='primary common-nav' role='navigation'>
+<h2 tabindex='0'>
+<span>Продукти</span>
+</h2>
+<ul>
+<li class='current'>
+<h3>
+<a href="/">Лаптопи</a>
+</h3>
+<ul>
+<li aria-haspopup='true'>
+<a href="/laptops"><h4>Лаптопи</h4>
+</a><div aria-hidden='true' data-menu='menu-Laptop'><section class='brands col-1'>
+<h5>Марки</h5>
+<ul class='brands'>
+<li><a href="/laptops-all">Всички</a></li>
+<li><a href="/laptops-dell">Dell</a></li>
+<li><a href="/laptops-asus">Asus</a></li>
+<li><a href="/laptops-lenovo">Lenovo</a></li>
+<li><a href="/laptops-acer">Acer</a></li>
+<li><a href="/laptops-hp">HP</a></li>
+<li><a href="/laptops-huawei">Huawei</a></li>
+<li><a href="/laptops-msi">MSI</a></li>
+<li><a href="/laptops-apple">Apple</a></li>
+<li><a href="/laptops-microsoft">Microsoft</a></li>
+<li><a href="/laptops-toshiba">Toshiba</a></li>
+<li><a href="/laptops-fujitsu">Fujitsu</a></li>
+</ul>
+</section>
+<section>
+<h5>Цена</h5>
+<ul>
+<li><a href="https://laptop.bg/laptops-all?search%5Bprice_btw%5D%5B%5D=300__499&amp;search%5Bprice_gte%5D=&amp;search%5Bprice_lte%5D=&amp;search%5Bmeta_sort%5D=promo_asc">300 - 499 лв.</a></li>
+<li><a href="https://laptop.bg/laptops-all?search%5Bprice_btw%5D%5B%5D=500__599&amp;search%5Bprice_gte%5D=&amp;search%5Bprice_lte%5D=&amp;search%5Bmeta_sort%5D=promo_asc">500 - 599 лв.</a></li>
+<li><a href="https://laptop.bg/laptops-all?search%5Bprice_btw%5D%5B%5D=600__799&amp;search%5Bprice_gte%5D=&amp;search%5Bprice_lte%5D=&amp;search%5Bmeta_sort%5D=promo_asc">600 - 799 лв.</a></li>
+<li><a href="https://laptop.bg/laptops-all?search%5Bprice_btw%5D%5B%5D=800__999&amp;search%5Bprice_gte%5D=&amp;search%5Bprice_lte%5D=&amp;search%5Bmeta_sort%5D=promo_asc">800 - 999 лв.</a></li>
+<li><a href="https://laptop.bg/laptops-all?search%5Bprice_btw%5D%5B%5D=1000__1199&amp;search%5Bprice_gte%5D=&amp;search%5Bprice_lte%5D=&amp;search%5Bmeta_sort%5D=promo_asc">1000 - 1199 лв.</a></li>
+<li><a href="https://laptop.bg/laptops-all?search%5Bprice_btw%5D%5B%5D=1200__1499&amp;search%5Bprice_gte%5D=&amp;search%5Bprice_lte%5D=&amp;search%5Bmeta_sort%5D=promo_asc">1200 - 1499 лв.</a></li>
+<li><a href="https://laptop.bg/laptops-all?page=2&amp;search%5Bprice_btw%5D%5B%5D=1500__1999&amp;search%5Bprice_gte%5D=&amp;search%5Bprice_lte%5D=&amp;search%5Bmeta_sort%5D=promo_asc">1500 - 1999 лв.</a></li>
+<li><a href="https://laptop.bg/laptops-all?utf8=%E2%9C%93&amp;search%5Bprice_btw%5D%5B%5D=2000__2499&amp;search%5Bprice_btw%5D%5B%5D=2500__2999&amp;search%5Bprice_btw%5D%5B%5D=3000__4999&amp;search%5Bprice_btw%5D%5B%5D=5000__9999&amp;search%5Bprice_gte%5D=&amp;search%5Bprice_lte%5D=&amp;brand_id_in_all=all&amp;type_laptop_id_in_all=all&amp;used_for_type_id_in_all=all&amp;basic_color_id_in_all=all&amp;cpu_type_id_in_all=all&amp;ram_type_capacity_id_in_all=all&amp;vga_type_id_in_all=all&amp;hdd_type_size_id_in_all=all&amp;ssd_size_id_in_all=all&amp;display_size_type_btw_all=all&amp;display_type_id_in_all=all&amp;resolution_size_id_in_all=all&amp;battery_type_id_in_all=all&amp;weight_type_btw_all=all&amp;os_type_id_in_all=all&amp;warranty_size_btw_all=all&amp;search%5Bmeta_sort%5D=promo_asc">над 2000 лв.</a></li>
+</ul>
+
+</section>
+<section>
+<h5>Други</h5>
+<ul>
+<li><a href="https://laptop.bg/laptops-all?utf8=%E2%9C%93&amp;price_btw_all=all&amp;search%5Bprice_gte%5D=&amp;search%5Bprice_lte%5D=&amp;brand_id_in_all=all&amp;type_laptop_id_in_all=all&amp;search%5Bused_for_type_id_in%5D%5B%5D=3&amp;search%5Bused_for_type_id_in%5D%5B%5D=7&amp;search%5Bused_for_type_id_in%5D%5B%5D=6&amp;basic_color_id_in_all=all&amp;cpu_type_id_in_all=all&amp;ram_type_capacity_id_in_all=all&amp;vga_type_id_in_all=all&amp;hdd_type_size_id_in_all=all&amp;ssd_size_id_in_all=all&amp;display_size_type_btw_all=all&amp;display_type_id_in_all=all&amp;resolution_size_id_in_all=all&amp;battery_type_id_in_all=all&amp;weight_type_btw_all=all&amp;os_type_id_in_all=all&amp;warranty_size_btw_all=all&amp;search%5Bmeta_sort%5D=promo_asc">Геймърски лаптопи</a></li>
+<li><a href="https://laptop.bg/laptops-all?search[price_gte]=&amp;search[price_lte]=&amp;search[ssd_equals]=1">Лаптопи със SSD</a></li>
+<li><a href="https://laptop.bg/laptops-all?utf8=%E2%9C%93&amp;price_btw_all=all&amp;search%5Bprice_gte%5D=&amp;search%5Bprice_lte%5D=&amp;brand_id_in_all=all&amp;type_laptop_id_in_all=all&amp;used_for_type_id_in_all=all&amp;basic_color_id_in_all=all&amp;cpu_type_id_in_all=all&amp;ram_type_capacity_id_in_all=all&amp;vga_type_id_in_all=all&amp;hdd_type_size_id_in_all=all&amp;ssd_size_id_in_all=all&amp;display_size_type_btw_all=all&amp;display_type_id_in_all=all&amp;resolution_size_id_in_all=all&amp;battery_type_id_in_all=all&amp;weight_type_btw_all=all&amp;os_type_id_in_all=all&amp;warranty_size_btw_all=all&amp;search%5Bips_display_equals%5D=1&amp;search%5Bmeta_sort%5D=promo_asc">С IPS екран</a></li>
+<li><a href="https://laptop.bg/laptops-all?search%5Bprice_gte%5D=&amp;search%5Bprice_lte%5D=&amp;search%5Bused_for_type_id_in%5D%5B%5D=5&amp;search%5Bmeta_sort%5D=promo_asc">Лаптопи за софтуерни инженери</a></li>
+<li><a href="https://laptop.bg/laptops-all?utf8=%E2%9C%93&amp;brand_id_in_all=all&amp;type_laptop_id_in_all=all&amp;search%5Btype_laptop_id_in%5D%5B%5D=2&amp;search%5Bmeta_sort%5D=promo_asc">Ултрабуци</a></li>
+</ul>
+
+</section>
+<section>
+<h5>Размер на екрана</h5>
+<ul>
+<li><a href="https://laptop.bg/laptops-all?page=1&amp;search%5Bprice_gte%5D=&amp;search%5Bprice_lte%5D=&amp;search%5Bdisplay_size_type_btw%5D%5B%5D=10.00__11.99&amp;search%5Bdisplay_size_type_btw%5D%5B%5D=12.00__12.99&amp;search%5Bmeta_sort%5D=promo_asc">до 13 инча</a></li>
+<li><a href="https://laptop.bg/laptops-all?page=1&amp;search%5Bprice_gte%5D=&amp;search%5Bprice_lte%5D=&amp;search%5Bdisplay_size_type_btw%5D%5B%5D=13.00__13.99&amp;search%5Bmeta_sort%5D=promo_asc">13 инча</a></li>
+<li><a href="https://laptop.bg/laptops-all?page=1&amp;search%5Bprice_gte%5D=&amp;search%5Bprice_lte%5D=&amp;search%5Bdisplay_size_type_btw%5D%5B%5D=14.00__14.99&amp;search%5Bmeta_sort%5D=promo_asc">14 инча</a></li>
+<li><a href="https://laptop.bg/laptops-all?page=1&amp;search%5Bprice_gte%5D=&amp;search%5Bprice_lte%5D=&amp;search%5Bdisplay_size_type_btw%5D%5B%5D=15.00__15.99&amp;search%5Bmeta_sort%5D=promo_asc">15 инча</a></li>
+<li><a href="https://laptop.bg/laptops-all?page=1&amp;search%5Bprice_gte%5D=&amp;search%5Bprice_lte%5D=&amp;search%5Bdisplay_size_type_btw%5D%5B%5D=16.00__17.99&amp;search%5Bmeta_sort%5D=promo_asc">17 инча</a></li>
+</ul>
+
+</section>
+<div class='banner'>
+<a class="submenu_banner" href="https://laptop.bg/acer_swift_ultrabook?utm_source=laptop.bg&amp;utm_medium=menu%20banner&amp;utm_campaign=acer%20swift%20ultrabook"><img data-src='/system/image_banners/images/acer_swift_35_menu_add-0e0ce6575ac6c953555c6463b2e4956787d3a081.png' alt='Acer Swift 3/5' title='Acer Swift 3/5' class='lazyload'></a>
+</div>
+<button class='button-plain' type='button'>
+<span>Назад</span>
+</button></div></li>
+<li aria-haspopup='true'>
+<a href="#"><h4>Периферия и Софтуер</h4>
+</a><div aria-hidden='true' data-menu='menu-1'><section>
+<h5>Периферия</h5>
+<ul>
+<li>
+<a href="/headphones">Слушалки</a>
+</li>
+<li>
+<a href="/mice">Мишки</a>
+</li>
+<li>
+<a href="/mouse_mats">Падове</a>
+</li>
+<li>
+<a href="/keyboards">Клавиатури</a>
+</li>
+<li>
+<a href="/speakers">Колони</a>
+</li>
+<li>
+<a href="/photo_mics">Микрофони</a>
+</li>
+<li>
+<a href="/cooling_pads">Подложки</a>
+</li>
+<li>
+<a href="/external_drives">Външни дискове</a>
+</li>
+<li>
+<a href="/routers">Рутери</a>
+</li>
+<li>
+<a href="/external_dvds">Външни DVD</a>
+</li>
+<li>
+<a href="/storages">Storage NAS</a>
+</li>
+<li>
+<a href="/docking_stations">Докинг станции</a>
+</li>
+<li>
+<a href="/usbhubs">USB Хъб</a>
+</li>
+<li>
+<a href="/racing_wheels">Волани</a>
+</li>
+<li>
+<a href="/web_cameras">Уеб камери</a>
+</li>
+<li>
+<a href="/ups">UPS</a>
+</li>
+</ul>
+
+</section>
+<section>
+<h5>Компоненти</h5>
+<ul>
+<li>
+<a href="/ram_memories">Лаптоп Оперативна памет</a>
+</li>
+<li>
+<a href="/ssd_drives">SSD</a>
+</li>
+<li>
+<a href="/hard_drives">Лаптоп Твърди дискове</a>
+</li>
+<li>
+<a href="/batteries">Батерии</a>
+</li>
+<li>
+<a href="/cables">Кабели и Адаптери</a>
+</li>
+<li>
+<a href="/adapters">Лаптоп Захранвания</a>
+</li>
+</ul>
+
+</section>
+<section>
+<h5>Други</h5>
+<ul>
+<li>
+<a href="/gametables">Геймърски маси</a>
+</li>
+<li>
+<a href="/game_chairs">Геймърски столове</a>
+</li>
+<li>
+<a href="/warranties">Гаранции</a>
+</li>
+<li>
+<a href="/gizmodos">Джаджи</a>
+</li>
+<li>
+<a href="/cleaningkits">За почистване</a>
+</li>
+<li>
+<a href="/cables">Кабели</a>
+</li>
+<li>
+<a href="/usb_sticks">USB памети</a>
+</li>
+<li>
+<a href="/microsds">Карти памет</a>
+</li>
+<li>
+<a href="/surge_protectors">Разклонители</a>
+</li>
+<li>
+<a href="https://desktop.bg/ip_cameras">IP камери</a>
+</li>
+</ul>
+
+</section>
+<section>
+<h5>Софтуер</h5>
+<ul>
+<li>
+<a href="/operating_systems">Операционни системи</a>
+</li>
+<li>
+<a href="/office_programs">Офис програми</a>
+</li>
+<li>
+<a href="/antivirus_software">Антивирусни</a>
+</li>
+<li>
+<a href="/adobe_cs">Adobe CC</a>
+</li>
+<li>
+<a href="/adobe">Adobe</a>
+</li>
+</ul>
+
+</section>
+<button class='button-plain' type='button'>
+<span>Назад</span>
+</button></div></li>
+<li aria-haspopup='true'>
+<a href="/bags"><h4>Чанти и Раници</h4>
+</a><div aria-hidden='true' data-menu='menu-Bag'><section>
+<h5>Марки</h5>
+<ul>
+<li><a href="https://laptop.bg/bags-all">Всички</a></li>
+<li><a href="https://laptop.bg/bags-all?search%5Bprice_gte%5D=&amp;search%5Bprice_lte%5D=&amp;search%5Bbrand_id_in%5D%5B%5D=1239602121&amp;search%5Bmeta_sort%5D=promo_asc">Golla</a></li>
+<li><a href="https://laptop.bg/bags-all?search%5Bprice_gte%5D=&amp;search%5Bprice_lte%5D=&amp;search%5Bbrand_id_in%5D%5B%5D=1239602162&amp;search%5Bmeta_sort%5D=promo_asc">Dakine</a></li>
+<li><a href="https://laptop.bg/bags-all?search%5Bprice_gte%5D=&amp;search%5Bprice_lte%5D=&amp;search%5Bbrand_id_in%5D%5B%5D=1239602139&amp;search%5Bmeta_sort%5D=promo_asc">Case Logic</a></li>
+<li><a href="https://laptop.bg/bags-all?search%5Bprice_gte%5D=&amp;search%5Bprice_lte%5D=&amp;search%5Bbrand_id_in%5D%5B%5D=1239602124&amp;search%5Bmeta_sort%5D=promo_asc">Targus</a></li>
+<li><a href="https://laptop.bg/bags-all?search%5Bprice_gte%5D=&amp;search%5Bprice_lte%5D=&amp;search%5Bbrand_id_in%5D%5B%5D=1239602131&amp;search%5Bmeta_sort%5D=promo_asc">Hama</a></li>
+<li><a href="https://laptop.bg/bags-all?search%5Bprice_gte%5D=&amp;search%5Bprice_lte%5D=&amp;search%5Bbrand_id_in%5D%5B%5D=1239602128&amp;search%5Bmeta_sort%5D=promo_asc">HP</a></li>
+<li><a href="https://laptop.bg/bags-all?search%5Bprice_gte%5D=&amp;search%5Bprice_lte%5D=&amp;search%5Bbrand_id_in%5D%5B%5D=1239602126&amp;search%5Bmeta_sort%5D=promo_asc">DELL</a></li>
+<li><a href="https://laptop.bg/bags-all?search%5Bprice_gte%5D=&amp;search%5Bprice_lte%5D=&amp;search%5Bbrand_id_in%5D%5B%5D=591149100&amp;search%5Bmeta_sort%5D=promo_asc">Lenovo</a></li>
+<li><a href="https://laptop.bg/bags-all?search%5Bprice_gte%5D=&amp;search%5Bprice_lte%5D=&amp;search%5Bbrand_id_in%5D%5B%5D=1239602127&amp;search%5Bmeta_sort%5D=promo_asc">Dicota</a></li>
+</ul>
+
+</section>
+<section>
+<h5>Цена</h5>
+<ul>
+<li><a href="https://laptop.bg/bags-all?search%5Bprice_btw%5D%5B%5D=0__29&amp;search%5Bprice_gte%5D=&amp;search%5Bprice_lte%5D=&amp;search%5Bmeta_sort%5D=promo_asc">29 лв</a></li>
+<li><a href="https://laptop.bg/bags-all?search%5Bprice_btw%5D%5B%5D=30__49&amp;search%5Bprice_gte%5D=&amp;search%5Bprice_lte%5D=&amp;search%5Bmeta_sort%5D=promo_asc">30 - 49 лв.</a></li>
+<li><a href="https://laptop.bg/bags-all?search%5Bprice_btw%5D%5B%5D=50__69&amp;search%5Bprice_gte%5D=&amp;search%5Bprice_lte%5D=&amp;search%5Bmeta_sort%5D=promo_asc">50 - 69 лв.</a></li>
+<li><a href="https://laptop.bg/bags-all?search%5Bprice_btw%5D%5B%5D=70__99&amp;search%5Bprice_gte%5D=&amp;search%5Bprice_lte%5D=&amp;search%5Bmeta_sort%5D=promo_asc">70 - 99 лв.</a></li>
+<li><a href="https://laptop.bg/bags-all?search%5Bprice_btw%5D%5B%5D=100__149&amp;search%5Bprice_gte%5D=&amp;search%5Bprice_lte%5D=&amp;search%5Bmeta_sort%5D=promo_asc">100 - 149 лв.</a></li>
+<li><a href="https://laptop.bg/bags-all?search%5Bprice_gte%5D=&amp;search%5Bprice_lte%5D=&amp;search%5Bmeta_sort%5D=promo_asc">150 - 199 лв.</a></li>
+<li><a href="https://laptop.bg/bags-all?search%5Bprice_btw%5D%5B%5D=200__299&amp;search%5Bprice_gte%5D=&amp;search%5Bprice_lte%5D=&amp;search%5Bmeta_sort%5D=promo_asc">над 200 лв.</a></li>
+</ul>
+
+</section>
+<section>
+<h5>Цвят</h5>
+<ul>
+<li><a href="https://laptop.bg/bags-all">всички</a></li>
+<li><a href="https://laptop.bg/bags-all?search%5Bprice_gte%5D=&amp;search%5Bprice_lte%5D=&amp;search%5Bbasic_color_id_in%5D%5B%5D=1&amp;search%5Bmeta_sort%5D=promo_asc">черни</a></li>
+<li><a href="https://laptop.bg/bags-all?search%5Bprice_gte%5D=&amp;search%5Bprice_lte%5D=&amp;search%5Bbasic_color_id_in%5D%5B%5D=17&amp;search%5Bmeta_sort%5D=promo_asc">многоцветни</a></li>
+<li><a href="https://laptop.bg/bags-all?search%5Bprice_gte%5D=&amp;search%5Bprice_lte%5D=&amp;search%5Bbasic_color_id_in%5D%5B%5D=2&amp;search%5Bmeta_sort%5D=promo_asc">бели</a></li>
+<li><a href="https://laptop.bg/bags-all?search%5Bprice_gte%5D=&amp;search%5Bprice_lte%5D=&amp;search%5Bbasic_color_id_in%5D%5B%5D=5&amp;search%5Bmeta_sort%5D=promo_asc">сини</a></li>
+<li><a href="https://laptop.bg/bags-all?search%5Bprice_gte%5D=&amp;search%5Bprice_lte%5D=&amp;search%5Bbasic_color_id_in%5D%5B%5D=3&amp;search%5Bmeta_sort%5D=promo_asc">червени</a></li>
+<li><a href="https://laptop.bg/bags-all?search%5Bprice_gte%5D=&amp;search%5Bprice_lte%5D=&amp;search%5Bbasic_color_id_in%5D%5B%5D=9&amp;search%5Bmeta_sort%5D=promo_asc">оранжеви</a></li>
+</ul>
+
+</section>
+<section>
+<h5>Размер</h5>
+<ul>
+<li><a href="https://laptop.bg/bags-all?search%5Bprice_gte%5D=&amp;search%5Bprice_lte%5D=&amp;search%5Bsize_btw%5D%5B%5D=12.00__12.99&amp;search%5Bsize_btw%5D%5B%5D=13.00__13.99&amp;search%5Bmeta_sort%5D=promo_asc">13 - 14 инча</a></li>
+<li><a href="https://laptop.bg/bags-all?search%5Bprice_gte%5D=&amp;search%5Bprice_lte%5D=&amp;search%5Bmeta_sort%5D=promo_asc">14 - 15 инча</a></li>
+<li><a href="https://laptop.bg/bags-all?search%5Bprice_gte%5D=&amp;search%5Bprice_lte%5D=&amp;search%5Bsize_btw%5D%5B%5D=15.00__15.99&amp;search%5Bmeta_sort%5D=promo_asc">15 - 16 инча</a></li>
+<li><a href="https://laptop.bg/bags-all?search%5Bprice_gte%5D=&amp;search%5Bprice_lte%5D=&amp;search%5Bsize_btw%5D%5B%5D=16.00__17.99&amp;search%5Bsize_btw%5D%5B%5D=18.00__21.00&amp;search%5Bmeta_sort%5D=promo_asc">Над 16 инча</a></li>
+</ul>
+
+</section>
+<section>
+<h5>Тип</h5>
+<ul>
+<li><a href="https://laptop.bg/bags-all?page=2&amp;search%5Bprice_gte%5D=&amp;search%5Bprice_lte%5D=&amp;search%5Bmodels_id_in%5D%5B%5D=2&amp;search%5Bmeta_sort%5D=promo_asc">Чанти</a></li>
+<li><a href="https://laptop.bg/bags-all?search%5Bprice_gte%5D=&amp;search%5Bprice_lte%5D=&amp;search%5Bmodels_id_in%5D%5B%5D=3&amp;search%5Bmeta_sort%5D=promo_asc">Раници</a></li>
+<li><a href="https://laptop.bg/bags-all?search%5Bprice_gte%5D=&amp;search%5Bprice_lte%5D=&amp;search%5Bmodels_id_in%5D%5B%5D=4&amp;search%5Bmeta_sort%5D=promo_asc">Калъфи</a></li>
+</ul>
+
+</section>
+<button class='button-plain' type='button'>
+<span>Назад</span>
+</button></div></li>
+<li aria-haspopup='true'>
+<a href="#"><h4>G:RIGS и Компютри</h4>
+</a><div aria-hidden='true' data-menu='menu-3'><section class='brands col-1'>
+<h5>G:RIGS компютри</h5>
+<ul class='brands'>
+<li><a href="/grigs-all">Всички</a></li>
+<li><a href="/grigs-absolute">Absolute</a></li>
+<li><a href="/grigs-protos">Protos</a></li>
+<li><a href="/grigs-powered_by_cougar">Powered by Cougar</a></li>
+<li><a href="/grigs-bequiet_castle">be quiet! Castle</a></li>
+<li><a href="/grigs-grigs_do_it_yourself">DIY Конфигурирай сам</a></li>
+<li><a href="/grigs-exclusives">Exclusives</a></li>
+<li><a href="/grigs-powered_by_geforce_esports">Powered by GeForce ESPORTS</a></li>
+<li><a href="/grigs-powered_by_geforce_rtx_ray_tracing">Powered by GeForce RTX Ray Tracing</a></li>
+<li><a href="/grigs-creator">Creator</a></li>
+</ul>
+</section>
+<section>
+<h5>Компютри</h5>
+<ul>
+<li>
+<a href="/computers">Компютри</a>
+</li>
+<li>
+<a href="/allinones">All in One</a>
+</li>
+<li>
+<a href="/mini_pcs">Mini PC</a>
+</li>
+</ul>
+
+</section>
+<section>
+<h5>Компоненти</h5>
+<ul>
+<li>
+<a href="/motherboards">Дънни платки</a>
+</li>
+<li>
+<a href="/desktop_cpus">Процесори</a>
+</li>
+<li>
+<a href="/desktop_video_cards">Видео карти</a>
+</li>
+<li>
+<a href="/desktop_rams">Оперативна памет</a>
+</li>
+<li>
+<a href="/desktop_cases">Кутии</a>
+</li>
+<li>
+<a href="/desktop_power_supplies">Захранвания</a>
+</li>
+<li>
+<a href="/desktop_harddrives">Твърди дискове</a>
+</li>
+<li>
+<a href="/desktop_optical_drives">DVD устройства</a>
+</li>
+<li>
+<a href="/ssd_drives">SSD</a>
+</li>
+<li>
+<a href="/sound_cards">Звукови карти</a>
+</li>
+<li>
+<a href="/case_fans">Вентилатори</a>
+</li>
+</ul>
+
+</section>
+<div class='banner'>
+<a class="submenu_banner" href="https://desktop.bg/dell_vostro_3000_pc?utm_source=laptop.bg&amp;utm_medium=menu%20banner&amp;utm_campaign=dell%20vostro%203000%20pc"><img data-src='/system/image_banners/images/dell_vostro_pc_menu_add-f163bcd9c7b7c9c880001af5a660255900137053.png' alt='Dell Vostro 3000 PC' title='Dell Vostro 3000 PC' class='lazyload'></a>
+</div>
+<button class='button-plain' type='button'>
+<span>Назад</span>
+</button></div></li>
+<li aria-haspopup='true'>
+<a href="#"><h4>Монитори</h4>
+</a><div aria-hidden='true' data-menu='menu-4'><section class='brands col-2'>
+<h5>Монитори</h5>
+<ul class='brands'>
+<li><a href="/displays-all">Всички</a></li>
+<li><a href="/displays-dell">Dell</a></li>
+<li><a href="/displays-acer">Acer</a></li>
+<li><a href="/displays-lg">LG</a></li>
+<li><a href="/displays-aoc">AOC</a></li>
+<li><a href="/displays-asus">Asus</a></li>
+<li><a href="/displays-hp">HP</a></li>
+<li><a href="/displays-philips">Philips</a></li>
+<li><a href="/displays-benq">BenQ</a></li>
+<li><a href="/displays-lenovo">Lenovo</a></li>
+<li><a href="/displays-msi">MSI</a></li>
+<li><a href="/displays-eizo">Eizo</a></li>
+<li><a href="/displays-apple">Apple</a></li>
+<li><a href="/displays-fujitsu">Fujitsu</a></li>
+<li><a href="/displays-hannspree">HANNSpree</a></li>
+<li><a href="/displays-iiyama">IIYAMA</a></li>
+<li><a href="/displays-samsung">Samsung</a></li>
+<li><a href="/displays-viewsonic">ViewSonic</a></li>
+<li><a href="/displays-alienware">Alienware</a></li>
+<li><a href="/displays-gigabyte">Gigabyte</a></li>
+<li><a href="/displays-zowie">ZOWIE</a></li>
+</ul>
+</section>
+<section>
+<h5>Размер</h5>
+<ul>
+<li><a href="https://laptop.bg/displays-all?search%5Bdisplay_size_type_btw%5D%5B%5D=24.00__25.00&amp;search%5Bprice_gte%5D=&amp;search%5Bprice_lte%5D=&amp;search%5Bmeta_sort%5D=promo_asc">24 инча</a></li>
+<li><a href="https://laptop.bg/displays-all?search%5Bdisplay_size_type_btw%5D%5B%5D=26.00__27.00&amp;search%5Bprice_gte%5D=&amp;search%5Bprice_lte%5D=&amp;search%5Bmeta_sort%5D=promo_asc">27 инча</a></li>
+<li><a href="https://laptop.bg/displays-all?search%5Bdisplay_size_type_btw%5D%5B%5D=28.00__33.00&amp;search%5Bprice_gte%5D=&amp;search%5Bprice_lte%5D=&amp;search%5Bmeta_sort%5D=promo_asc">над 28 инча</a></li>
+</ul>
+
+</section>
+<section>
+<h5>Опции</h5>
+<ul>
+<li><a href="https://laptop.bg/displays-all?utf8=%E2%9C%93&amp;price_btw_all=all&amp;search%5Bprice_gte%5D=&amp;search%5Bprice_lte%5D=&amp;brand_id_in_all=all&amp;display_size_type_btw_all=all&amp;technology_panel_id_in_all=all&amp;type_display_id_in_all=all&amp;search%5Brefresh_rate_id_in%5D%5B%5D=7&amp;search%5Brefresh_rate_id_in%5D%5B%5D=12&amp;search%5Brefresh_rate_id_in%5D%5B%5D=8&amp;search%5Btime_reaction_id_in%5D%5B%5D=14&amp;search%5Btime_reaction_id_in%5D%5B%5D=1&amp;display_type_id_in_all=all&amp;backlight_id_in_all=all&amp;display_type_view_id_in_all=all&amp;resolution_id_in_all=all&amp;basic_color_id_in_all=all&amp;warranty_size_btw_all=all&amp;per_page=25&amp;search%5Bs%5D=promo_asc">144Hz и 1ms</a></li>
+<li><a href="https://laptop.bg/displays-all?utf8=%E2%9C%93&amp;price_btw_all=all&amp;search%5Bprice_gte%5D=&amp;search%5Bprice_lte%5D=&amp;brand_id_in_all=all&amp;display_size_type_btw_all=all&amp;technology_panel_id_in_all=all&amp;type_display_id_in_all=all&amp;refresh_rate_id_in_all=all&amp;search%5Brefresh_rate_id_in%5D%5B%5D=11&amp;time_reaction_id_in_all=all&amp;display_type_id_in_all=all&amp;backlight_id_in_all=all&amp;display_type_view_id_in_all=all&amp;resolution_id_in_all=all&amp;basic_color_id_in_all=all&amp;warranty_size_btw_all=all&amp;per_page=25&amp;search%5Bs%5D=promo_asc">240Hz и 1ms</a></li>
+<li><a href="https://laptop.bg/displays-all?utf8=%E2%9C%93&amp;price_btw_all=all&amp;search%5Bprice_gte%5D=&amp;search%5Bprice_lte%5D=&amp;brand_id_in_all=all&amp;display_size_type_btw_all=all&amp;technology_panel_id_in_all=all&amp;type_display_id_in_all=all&amp;refresh_rate_id_in_all=all&amp;time_reaction_id_in_all=all&amp;display_type_id_in_all=all&amp;backlight_id_in_all=all&amp;display_type_view_id_in_all=all&amp;resolution_id_in_all=all&amp;basic_color_id_in_all=all&amp;warranty_size_btw_all=all&amp;search%5Bthree_dimensional_eq%5D=1&amp;per_page=25&amp;search%5Bs%5D=promo_asc">USB Type-C</a></li>
+<li><a href="https://laptop.bg/displays-all?search%5Bprice_gte%5D=&amp;search%5Bprice_lte%5D=&amp;search%5Bdisplay_type_view_id_in%5D%5B%5D=1&amp;search%5Bmeta_sort%5D=promo_asc">Матов Дисплей</a></li>
+<li><a href="https://laptop.bg/displays-all?search%5Bprice_gte%5D=&amp;search%5Bprice_lte%5D=&amp;search%5Bdisplay_type_id_in%5D%5B%5D=1&amp;search%5Bmeta_sort%5D=promo_asc">IPS дисплей</a></li>
+<li><a href="https://laptop.bg/displays-all?search%5Bprice_gte%5D=&amp;search%5Bprice_lte%5D=&amp;search%5Bfour_k_equals%5D=1&amp;search%5Bmeta_sort%5D=promo_asc">4K Ultra HD</a></li>
+<li><a href="https://laptop.bg/displays-all?search%5Bprice_gte%5D=&amp;search%5Bprice_lte%5D=&amp;search%5Btv_tunner_equals%5D=1&amp;search%5Bmeta_sort%5D=promo_asc">TV тунер</a></li>
+<li><a href="https://laptop.bg/displays-all?search%5Bprice_gte%5D=&amp;search%5Bprice_lte%5D=&amp;search%5Binternal_sound_equals%5D=1&amp;search%5Bmeta_sort%5D=promo_asc">Вградени колони</a></li>
+</ul>
+
+</section>
+<button class='button-plain' type='button'>
+<span>Назад</span>
+</button></div></li>
+<li aria-haspopup='true'>
+<a href="#"><h4>Компоненти и Видео карти</h4>
+</a><div aria-hidden='true' data-menu='menu-5'><section>
+<h5>Компютърни Компоненти</h5>
+<ul>
+<li>
+<a href="/desktop_cpus">Процесори</a>
+</li>
+<li>
+<a href="/desktop_video_cards">Видео карти</a>
+</li>
+<li>
+<a href="/motherboards">Дънни платки</a>
+</li>
+<li>
+<a href="/desktop_rams">Оперативна памет</a>
+</li>
+<li>
+<a href="/desktop_cases">Кутии</a>
+</li>
+<li>
+<a href="/desktop_power_supplies">Захранвания</a>
+</li>
+<li>
+<a href="/desktop_harddrives">Твърди дискове</a>
+</li>
+<li>
+<a href="/ssd_drives">SSD</a>
+</li>
+<li>
+<a href="/sound_cards">Звукови карти</a>
+</li>
+<li>
+<a href="/case_fans">Вентилатори</a>
+</li>
+<li>
+<a href="/desktop_optical_drives">DVD устройства</a>
+</li>
+<li>
+<a href="/desktop_coolers">Охладитeли</a>
+</li>
+<li>
+<a href="/desktop_filters">Филтри за кутии</a>
+</li>
+</ul>
+
+</section>
+<section class='brands col-1'>
+<h5>Компютърни видео карти</h5>
+<ul class='brands'>
+<li><a href="/desktop_video_cards-all">Всички</a></li>
+<li><a href="/desktop_video_cards-amd">AMD</a></li>
+<li><a href="/desktop_video_cards-nvidia">NVIDIA</a></li>
+</ul>
+</section>
+<button class='button-plain' type='button'>
+<span>Назад</span>
+</button></div></li>
+<li aria-haspopup='true'>
+<a href="#"><h4>Смартфони и Smart Home</h4>
+</a><div aria-hidden='true' data-menu='menu-6'><section class='brands col-1'>
+<h5>Смартфони</h5>
+<ul class='brands'>
+<li><a href="/smartphones-all">Всички</a></li>
+<li><a href="/smartphones-xiaomi">Xiaomi</a></li>
+<li><a href="/smartphones-samsung">Samsung</a></li>
+<li><a href="/smartphones-apple">Apple</a></li>
+<li><a href="/smartphones-motorola">Motorola</a></li>
+<li><a href="/smartphones-huawei">Huawei</a></li>
+<li><a href="/smartphones-prestigio">Prestigio</a></li>
+<li><a href="/smartphones-lg">LG</a></li>
+<li><a href="/smartphones-realme">Realme</a></li>
+</ul>
+</section>
+<section>
+<h5>Аксесоари</h5>
+<ul>
+<li>
+<a href="/microsds">Карти памет</a>
+</li>
+<li>
+<a href="/handsfrees">Handsfree</a>
+</li>
+<li>
+<a href="/headphones">Слушалки</a>
+</li>
+<li>
+<a href="/folios">Защитно фолио</a>
+</li>
+<li>
+<a href="/smartphone_batteries">Батерии</a>
+</li>
+<li>
+<a href="/smartphone_adapters">Захранвания</a>
+</li>
+<li>
+<a href="/stands">Стойки</a>
+</li>
+</ul>
+
+</section>
+<section>
+<h5>Калъфи</h5>
+<ul>
+<li>
+<a href="/smartphone_sleeves">Калъфи за смартфони</a>
+</li>
+</ul>
+
+</section>
+<section class='brands col-2'>
+<h5>Smart Home</h5>
+<ul class='brands'>
+<li><a href="/smart_gadgets-all">Всички</a></li>
+<li><a href="/smart_gadgets-acme">Acme</a></li>
+<li><a href="/smart_gadgets-allocacoc">Allocacoc</a></li>
+<li><a href="/smart_gadgets-baseus">Baseus</a></li>
+<li><a href="/smart_gadgets-beurer">Beurer</a></li>
+<li><a href="/smart_gadgets-d_link">D-Link</a></li>
+<li><a href="/smart_gadgets-devolo">Devolo</a></li>
+<li><a href="/smart_gadgets-elgato">Elgato</a></li>
+<li><a href="/smart_gadgets-hama">Hama</a></li>
+<li><a href="/smart_gadgets-philips">Philips</a></li>
+<li><a href="/smart_gadgets-tp_link">TP-Link</a></li>
+<li><a href="/smart_gadgets-xiaomi">Xiaomi</a></li>
+<li><a href="/smart_gadgets-zyxel">Zyxel</a></li>
+</ul>
+</section>
+<button class='button-plain' type='button'>
+<span>Назад</span>
+</button></div></li>
+<li aria-haspopup='true'>
+<a href="#"><h4>Смарт часовници и гривни</h4>
+</a><div aria-hidden='true' data-menu='menu-7'><section class='brands col-1'>
+<h5>Смарт часовници</h5>
+<ul class='brands'>
+<li><a href="/smartwatches-all">Всички</a></li>
+<li><a href="/smartwatches-garmin">Garmin</a></li>
+<li><a href="/smartwatches-suunto">Suunto</a></li>
+<li><a href="/smartwatches-fitbit">Fitbit</a></li>
+<li><a href="/smartwatches-withings">Withings</a></li>
+<li><a href="/smartwatches-samsung">Samsung</a></li>
+<li><a href="/smartwatches-motorola">Motorola</a></li>
+<li><a href="/smartwatches-huawei">Huawei</a></li>
+<li><a href="/smartwatches-acme">Acme</a></li>
+<li><a href="/smartwatches-apple">Apple</a></li>
+<li><a href="/smartwatches-canyon">Canyon</a></li>
+<li><a href="/smartwatches-nokia">Nokia</a></li>
+</ul>
+</section>
+<section class='brands col-1'>
+<h5>Гривни</h5>
+<ul class='brands'>
+<li><a href="/smartbands-all">Всички</a></li>
+<li><a href="/smartbands-fitbit">Fitbit</a></li>
+<li><a href="/smartbands-garmin">Garmin</a></li>
+<li><a href="/smartbands-acme">Acme</a></li>
+<li><a href="/smartbands-beurer">Beurer</a></li>
+<li><a href="/smartbands-canyon">Canyon</a></li>
+<li><a href="/smartbands-hama">Hama</a></li>
+<li><a href="/smartbands-xiaomi">Xiaomi</a></li>
+</ul>
+</section>
+<section>
+<h5>Функции</h5>
+<ul>
+<li><a href="https://smartwatch.bg/smartwatches-all?utf8=✓&amp;price_btw_all=all&amp;search%5Bprice_gte%5D=&amp;search%5Bprice_lte%5D=&amp;brand_id_in_all=all&amp;basic_color_id_in_all=all&amp;weight_type_btw_all=all&amp;warranty_size_btw_all=all&amp;search%5Bpulse_equals%5D=1&amp;search%5Bmeta_sort%5D=promo_asc">Пулс монитор</a></li>
+<li><a href="https://smartwatch.bg/smartwatches-all?utf8=✓&amp;price_btw_all=all&amp;search%5Bprice_gte%5D=&amp;search%5Bprice_lte%5D=&amp;brand_id_in_all=all&amp;basic_color_id_in_all=all&amp;weight_type_btw_all=all&amp;warranty_size_btw_all=all&amp;search%5Bwaterproof_equals%5D=1&amp;search%5Bmeta_sort%5D=promo_asc">Водоустойчив</a></li>
+<li><a href="https://smartwatch.bg/smartwatches-all?utf8=✓&amp;search%5Bprice_btw%5D%5B%5D=1000__1499&amp;search%5Bprice_gte%5D=&amp;search%5Bprice_lte%5D=&amp;brand_id_in_all=all&amp;basic_color_id_in_all=all&amp;weight_type_btw_all=all&amp;warranty_size_btw_all=all&amp;search%5Bgps_equals%5D=1&amp;per_page=27&amp;search%5Bmeta_sort%5D=promo_asc">GPS</a></li>
+<li><a href="https://smartwatch.bg/smartwatches-all?utf8=✓&amp;price_btw_all=all&amp;search%5Bprice_gte%5D=&amp;search%5Bprice_lte%5D=&amp;brand_id_in_all=all&amp;os_id_in_all=all&amp;basic_color_id_in_all=all&amp;weight_type_btw_all=all&amp;warranty_size_btw_all=all&amp;search%5Bnfc_equals%5D=1&amp;per_page=27&amp;search%5Bmeta_sort%5D=promo_asc">NFC</a></li>
+<li><a href="https://smartwatch.bg/smartwatches-all?utf8=✓&amp;price_btw_all=all&amp;search%5Bprice_gte%5D=&amp;search%5Bprice_lte%5D=&amp;brand_id_in_all=all&amp;os_id_in_all=all&amp;basic_color_id_in_all=all&amp;weight_type_btw_all=all&amp;warranty_size_btw_all=all&amp;search%5Bwifi_equals%5D=1&amp;per_page=27&amp;search%5Bmeta_sort%5D=promo_asc">Wi-Fi</a></li>
+</ul>
+
+</section>
+<section class='brands col-2'>
+<h5>Аксесосари за часовници</h5>
+<ul class='brands'>
+<li><a href="/straps-all">Всички</a></li>
+<li><a href="/straps-apple">Apple</a></li>
+<li><a href="/straps-artwizz">Artwizz</a></li>
+<li><a href="/straps-baseus">Baseus</a></li>
+<li><a href="/straps-fitbit">Fitbit</a></li>
+<li><a href="/straps-garmin">Garmin</a></li>
+<li><a href="/straps-griffin">Griffin</a></li>
+<li><a href="/straps-moshi">Moshi</a></li>
+<li><a href="/straps-myki">MyKi</a></li>
+<li><a href="/straps-nokia">Nokia</a></li>
+<li><a href="/straps-satechi">Satechi</a></li>
+<li><a href="/straps-speck">Speck</a></li>
+<li><a href="/straps-spigen">Spigen</a></li>
+<li><a href="/straps-suunto">Suunto</a></li>
+<li><a href="/straps-urban_armour">Urban Armour</a></li>
+<li><a href="/straps-withings">Withings</a></li>
+<li><a href="/straps-xiaomi">Xiaomi</a></li>
+</ul>
+</section>
+<button class='button-plain' type='button'>
+<span>Назад</span>
+</button></div></li>
+<li aria-haspopup='true'>
+<a href="#"><h4>Таблети и Електронни четци</h4>
+</a><div aria-hidden='true' data-menu='menu-8'><section class='brands col-1'>
+<h5>Таблети</h5>
+<ul class='brands'>
+<li><a href="/tablets-all">Всички</a></li>
+<li><a href="/tablets-apple">Apple</a></li>
+<li><a href="/tablets-samsung">Samsung</a></li>
+<li><a href="/tablets-lenovo">Lenovo</a></li>
+<li><a href="/tablets-prestigio">Prestigio</a></li>
+<li><a href="/tablets-microsoft">Microsoft</a></li>
+<li><a href="/tablets-huawei">Huawei</a></li>
+</ul>
+</section>
+<section>
+<h5>Електронни четци</h5>
+<ul>
+<li>
+<a href="/ereaders">E-reader</a>
+</li>
+</ul>
+
+</section>
+<section class='brands col-1'>
+<h5>Графични таблети</h5>
+<ul class='brands'>
+<li><a href="/graphical_tablets-all">Всички</a></li>
+<li><a href="/graphical_tablets-wacom_tablet">Wacom</a></li>
+</ul>
+</section>
+<section>
+<h5>Аксесоари</h5>
+<ul>
+<li>
+<a href="/tablet_sleeves">Калъфи за таблети</a>
+</li>
+<li>
+<a href="/microsds">Карти памет</a>
+</li>
+<li>
+<a href="/folio_tablets">Защитно фолио</a>
+</li>
+<li>
+<a href="/stands">Стойки</a>
+</li>
+<li>
+<a href="/headphones">Слушалки</a>
+</li>
+<li>
+<a href="/smartphone_adapters">Захранвания</a>
+</li>
+<li>
+<a href="/smartphone_batteries">Батерии</a>
+</li>
+<li>
+<a href="/tablet_accessories">Още аксесоари</a>
+</li>
+</ul>
+
+</section>
+<button class='button-plain' type='button'>
+<span>Назад</span>
+</button></div></li>
+<li aria-haspopup='true'>
+<a href="#"><h4>TV, Аудио и Проектори</h4>
+</a><div aria-hidden='true' data-menu='menu-9'><section class='brands col-1'>
+<h5>Телевизори</h5>
+<ul class='brands'>
+<li><a href="/tvs-all">Всички</a></li>
+<li><a href="/tvs-lg">LG</a></li>
+<li><a href="/tvs-samsung">Samsung</a></li>
+<li><a href="/tvs-sony">Sony</a></li>
+<li><a href="/tvs-philips">Philips</a></li>
+<li><a href="/tvs-hisense">Hisense</a></li>
+</ul>
+</section>
+<section class='brands col-1'>
+<h5>Проектори</h5>
+<ul class='brands'>
+<li><a href="/projectors-all">Всички</a></li>
+<li><a href="/projectors-benq">BenQ</a></li>
+<li><a href="/projectors-acer">Acer</a></li>
+<li><a href="/projectors-epson">Epson</a></li>
+<li><a href="/projectors-optoma">Optoma</a></li>
+<li><a href="/projectors-lg">LG</a></li>
+<li><a href="/projectors-nec">NEC</a></li>
+<li><a href="/projectors-casio">Casio</a></li>
+<li><a href="/projectors-vivitek">Vivitek</a></li>
+</ul>
+</section>
+<section>
+<h5>Аудио</h5>
+<ul>
+<li>
+<a href="/audios">Домашно кино</a>
+</li>
+<li>
+<a href="/speakers">Колони</a>
+</li>
+<li>
+<a href="/hifi_systems">HiFi системи</a>
+</li>
+<li>
+<a href="/radios">Радио</a>
+</li>
+<li>
+<a href="https://ele.bg/radioclocks">Радиочасовници</a>
+</li>
+<li>
+<a href="/headphones">Слушалки</a>
+</li>
+</ul>
+
+</section>
+<section>
+<h5>Аксесоари</h5>
+<ul>
+<li>
+<a href="/cables">Кабели</a>
+</li>
+<li>
+<a href="/tv_stands">Стойки и маси</a>
+</li>
+<li>
+<a href="/screens">Екрани</a>
+</li>
+<li>
+<a href="/players">Плейъри</a>
+</li>
+<li>
+<a href="/glas">Очила</a>
+</li>
+<li>
+<a href="/cifrovizacia">Цифровизация</a>
+</li>
+<li>
+<a href="/antennas">Антени</a>
+</li>
+<li>
+<a href="/others">Други</a>
+</li>
+<li>
+<a href="/dehumidifiers">Въздушни пречистватели</a>
+</li>
+</ul>
+
+</section>
+<button class='button-plain' type='button'>
+<span>Назад</span>
+</button></div></li>
+<li aria-haspopup='true'>
+<a href="/printers"><h4>Принтери и Консумативи</h4>
+</a><div aria-hidden='true' data-menu='menu-Printer'><section class='brands col-1'>
+<h5>Принтери</h5>
+<ul class='brands'>
+<li><a href="/printers-all">Всички</a></li>
+<li><a href="/printers-hp">HP</a></li>
+<li><a href="/printers-xerox">Xerox</a></li>
+<li><a href="/printers-epson">Epson</a></li>
+<li><a href="/printers-canon">Canon </a></li>
+<li><a href="/printers-brother">Brother</a></li>
+<li><a href="/printers-lexmark">Lexmark</a></li>
+<li><a href="/printers-kodak">Kodak</a></li>
+<li><a href="/printers-polaroid">Polaroid</a></li>
+<li><a href="/printers-ricoh">Ricoh</a></li>
+</ul>
+</section>
+<section class='brands col-2'>
+<h5>Консумативи</h5>
+<ul class='brands'>
+<li><a href="/cartridges-all">Всички</a></li>
+<li><a href="/cartridges-brother">Brother</a></li>
+<li><a href="/cartridges-canon">Canon </a></li>
+<li><a href="/cartridges-develop">Develop</a></li>
+<li><a href="/cartridges-epson">Epson</a></li>
+<li><a href="/cartridges-hp">HP</a></li>
+<li><a href="/cartridges-itimage">IT Image</a></li>
+<li><a href="/cartridges-lexmark">Lexmark</a></li>
+<li><a href="/cartridges-ricoh">Ricoh</a></li>
+<li><a href="/cartridges-samsung">Samsung</a></li>
+<li><a href="/cartridges-xerox">Xerox</a></li>
+<li><a href="/cartridges-_brother">произведено за Brother</a></li>
+<li><a href="/cartridges-_canon">произведено за Canon</a></li>
+<li><a href="/cartridges-prodhp">произведено за HP</a></li>
+<li><a href="/cartridges-_kyocera">произведено за Kyocera</a></li>
+<li><a href="/cartridges-prodsamsung">произведено за Samsung</a></li>
+</ul>
+</section>
+<button class='button-plain' type='button'>
+<span>Назад</span>
+</button></div></li>
+</ul>
+</li>
+</ul>
+<p>
+<a href="/promotions"><svg>
+<text style='fill:url(#promo-gradient);' x='0' y='75%'>Промоции</text>
+</svg>
+</a></p>
+</div>
+
+<form id="search" role="search" action="/search" accept-charset="UTF-8" method="get"><input name="utf8" type="hidden" value="&#x2713;" />
+<input type="text" name="q" id="q" size="85" tabindex="1" placeholder="търси лаптопи" required="required" />
+<label for="q">Търсене</label>
+<button type='submit'>Търси</button>
+<button type='reset'>
+<i class='icon-only fa-times'></i>
+</button>
+<div class='live-search-box' id='search-loading'>
+<p>Зареждане на резултати...</p>
+</div>
+<div class='live-search-box' id='search-results'></div>
+<script>
+var categories = [];
+categories.push("лаптопи");
+categories.push("периферия и софтуер");
+categories.push("чанти и раници");
+categories.push("g:rigs и компютри");
+categories.push("монитори");
+categories.push("компоненти и видео карти");
+categories.push("смартфони и smart home");
+categories.push("смарт часовници и гривни");
+categories.push("таблети и електронни четци");
+categories.push("tv, аудио и проектори");
+categories.push("принтери и консумативи");
+categories[0] = "лаптопи";
+
+</script>
+</form>
+
+
+<ul aria-live='polite' class='session' role='navigation'>
+<li aria-haspopup='true' aria-live='polite' class='cart-small empty' id='compare' title='Сравнение на продукти'>
+<a href='#'>
+<i class='icon-only fa-retweet'></i>
+<span>
+0
+</span>
+</a>
+<div aria-hidden='true' class='new-look tabs-container'>
+<div class='message mini'>
+<h2>Добавете продукти за сравнение</h2>
+</div>
+
+</div>
+</li>
+<li aria-haspopup='true' aria-live='polite' class='cart-small empty' id='cart' title='Вашата количка'>
+<a href='/cart'>
+<i class='icon-only fa-shopping-cart'></i>
+<span>0</span>
+</a>
+<div aria-hidden='true' class='new-look'>
+<div class='message mini error'>
+<h2>Няма стоки във вашата количка</h2>
+<p>Моля, добавете продукти към количката!</p>
+</div>
+</div>
+</li>
+<li aria-haspopup='true' id='my-profile'>
+<a href="/account"><i class='icon-only fa-user'></i>
+<span>Моят профил</span>
+</a><div aria-hidden='true'>
+<ul>
+<li>
+<a href="/account">Моят профил</a>
+</li>
+<li>
+<a href="/account/order_history">Моите поръчки</a>
+</li>
+<li>
+<a href="/account/addresses">Адреси</a>
+</li>
+<li>
+<a href="/account/companies">Фирмени данни</a>
+</li>
+<li>
+<a href="/account/my_settings">Настройки</a>
+</li>
+</ul>
+<p>
+<a class="special" href="/sign_in">Вход</a>
+<br>
+<a href="/sign_up">Създай профил</a>
+</p>
+</div>
+</li>
+</ul>
+</nav>
+</div>
+<hr>
+</header><div id='content'>
+<div class='frame'>
+<header>
+<nav class='breadcrumbs'><span itemscope itemtype='http://data-vocabulary.org/Breadcrumb'><a id="root_breadcrumb" itemprop="url" href="/"><span itemprop='title'>Начало</span></a><span class='separator'></span><span class='current'>Лаптопи</span></span></nav>
+<h1>
+Лаптопи 
+<span class='count'>(16)</span>
+</h1>
+</header>
+
+<div class='sidebar' id='filters' role='search'>
+<h2>Филтри</h2>
+<form id="filters-form" action="/laptops-all" accept-charset="UTF-8" method="get"><input name="utf8" type="hidden" value="&#x2713;" />
+<div class='filter-group' id='attr_other'>
+<h3>Други</h3>
+<p class=''>
+<input type="checkbox" name="search[state_in][]" id="state_in_fresh" value="fresh" class="scope" data-count="0" />
+<label class="new" for="state_in_fresh">Нови модели
+<span class='filter-count'>
+(4)
+</span>
+</label></p>
+
+<p class=''>
+<input type="checkbox" name="search[state_in][]" id="state_in_promo" value="promo" class="scope" data-count="0" />
+<label class="promo" for="state_in_promo">Промо модели
+<span class='filter-count'>
+(14)
+</span>
+</label></p>
+
+<p class=''>
+<input type="checkbox" name="search[state_in][]" id="state_in_best-selling" value="best-selling" class="scope" data-count="0" />
+<label class="bestsellers" for="state_in_best-selling">Най-продавани модели
+<span class='filter-count'>
+(7)
+</span>
+</label></p>
+
+<p class='inactive-filter'>
+<input type="checkbox" name="search[state_in][]" id="state_in_pre-ordered" value="pre-ordered" class="scope" data-count="0" disabled="disabled" />
+<label class="pre-ordered" for="state_in_pre-ordered">Очаквайте
+<span class='filter-count'>
+(0)
+</span>
+</label></p>
+
+<p class=''>
+<input type="checkbox" name="search[state_in][]" id="state_in_with_gift" value="with_gift" class="scope" data-count="0" />
+<label class="withgift" for="state_in_with_gift">С подарък
+<span class='filter-count'>
+(13)
+</span>
+</label></p>
+
+</div>
+
+
+
+
+<div class='filter-group' id='price'>
+<h3>Цена</h3>
+<div class='custom-scroll'>
+<p>
+<input type="checkbox" name="price_btw_all" id="price_btw_all" value="all" class="all-scope" data-count="0" checked="checked" />
+<label for="price_btw_all">Всички</label>
+</p>
+<p>
+<input type="checkbox" name="search[price_btw][]" id="price_btw_1200__1499" value="1200__1499" class="scope" data-count="2" />
+<label for="price_btw_1200__1499">1200 - 1499 лв
+<span class='filter-count'>
+(2)
+</span>
+</label></p>
+<p>
+<input type="checkbox" name="search[price_btw][]" id="price_btw_1500__1999" value="1500__1999" class="scope" data-count="4" />
+<label for="price_btw_1500__1999">1500 - 1999 лв
+<span class='filter-count'>
+(4)
+</span>
+</label></p>
+<p>
+<input type="checkbox" name="search[price_btw][]" id="price_btw_2000__2499" value="2000__2499" class="scope" data-count="5" />
+<label for="price_btw_2000__2499">2000 - 2499 лв
+<span class='filter-count'>
+(5)
+</span>
+</label></p>
+<p>
+<input type="checkbox" name="search[price_btw][]" id="price_btw_2500__2999" value="2500__2999" class="scope" data-count="2" />
+<label for="price_btw_2500__2999">2500 - 2999 лв
+<span class='filter-count'>
+(2)
+</span>
+</label></p>
+<p>
+<input type="checkbox" name="search[price_btw][]" id="price_btw_3000__4999" value="3000__4999" class="scope" data-count="1" />
+<label for="price_btw_3000__4999">3000 - 4999 лв
+<span class='filter-count'>
+(1)
+</span>
+</label></p>
+<p>
+<input type="checkbox" name="search[price_btw][]" id="price_btw_5000__9999" value="5000__9999" class="scope" data-count="2" />
+<label for="price_btw_5000__9999">5000 - 9999 лв
+<span class='filter-count'>
+(2)
+</span>
+</label></p>
+<p class='price-plain'>
+<label for="price_gte">от</label>
+<input type="text" name="search[price_gte]" id="price_gte" value="" size="4" class="lower scope small" />
+<label for="price_lte">до</label>
+<input type="text" name="search[price_lte]" id="price_lte" value="" size="4" class="upper scope small" />
+<span class='postfix'>лв</span>
+<span class='filter-count'></span>
+</p>
+<p class='empty-filter-msg'>
+Няма опции, съответстващи на активните филтри
+</p>
+</div>
+<button class='show button-plain' type='button'>покажи всички</button>
+<button class='hide button-plain' type='button'>покажи по-малко</button>
+</div>
+
+<div class='filter-group' id='brand'>
+<h3>Марка</h3>
+<div class='custom-scroll'>
+<p class=''>
+<input type="checkbox" name="brand_id_in_all" id="brand_id_in_all" value="all" class="all-scope" data-count="0" />
+<label for="brand_id_in_all">Всички</label>
+</p>
+<p>
+<input type="checkbox" name="search[brand_id_in][]" id="brand_id_in_1239602126" value="1239602126" class="scope " data-count="45" />
+<label for="brand_id_in_1239602126">Dell
+<span class='filter-count'>
+(45)
+</span>
+</label></p>
+<p>
+<input type="checkbox" name="search[brand_id_in][]" id="brand_id_in_1239602125" value="1239602125" class="scope " data-count="27" />
+<label for="brand_id_in_1239602125">Asus
+<span class='filter-count'>
+(27)
+</span>
+</label></p>
+<p>
+<input type="checkbox" name="search[brand_id_in][]" id="brand_id_in_591149100" value="591149100" class="scope " data-count="79" />
+<label for="brand_id_in_591149100">Lenovo
+<span class='filter-count'>
+(79)
+</span>
+</label></p>
+<p>
+<input type="checkbox" name="search[brand_id_in][]" id="brand_id_in_1239602116" value="1239602116" class="scope " data-count="45" />
+<label for="brand_id_in_1239602116">Acer
+<span class='filter-count'>
+(45)
+</span>
+</label></p>
+<p>
+<input type="checkbox" name="search[brand_id_in][]" id="brand_id_in_1239602128" value="1239602128" class="scope " data-count="38" />
+<label for="brand_id_in_1239602128">HP
+<span class='filter-count'>
+(38)
+</span>
+</label></p>
+<p>
+<input type="checkbox" name="search[brand_id_in][]" id="brand_id_in_1239602261" value="1239602261" class="scope " data-count="2" />
+<label for="brand_id_in_1239602261">Huawei
+<span class='filter-count'>
+(2)
+</span>
+</label></p>
+<p>
+<input type="checkbox" name="search[brand_id_in][]" id="brand_id_in_1239602138" value="1239602138" class="scope " data-count="16" checked="checked" />
+<label for="brand_id_in_1239602138">MSI
+<span class='filter-count'>
+(16)
+</span>
+</label></p>
+<p>
+<input type="checkbox" name="search[brand_id_in][]" id="brand_id_in_690933841" value="690933841" class="scope " data-count="39" />
+<label for="brand_id_in_690933841">Apple
+<span class='filter-count'>
+(39)
+</span>
+</label></p>
+<p>
+<input type="checkbox" name="search[brand_id_in][]" id="brand_id_in_1239602156" value="1239602156" class="scope " data-count="14" />
+<label for="brand_id_in_1239602156">Microsoft
+<span class='filter-count'>
+(14)
+</span>
+</label></p>
+<p>
+<input type="checkbox" name="search[brand_id_in][]" id="brand_id_in_1239602129" value="1239602129" class="scope " data-count="5" />
+<label for="brand_id_in_1239602129">Toshiba
+<span class='filter-count'>
+(5)
+</span>
+</label></p>
+<p>
+<input type="checkbox" name="search[brand_id_in][]" id="brand_id_in_1239602157" value="1239602157" class="scope " data-count="8" />
+<label for="brand_id_in_1239602157">Fujitsu
+<span class='filter-count'>
+(8)
+</span>
+</label></p>
+<p class='empty-filter-msg'>
+Няма опции, съответстващи на активните филтри
+</p>
+</div>
+<button class='show button-plain' type='button'>покажи всички</button>
+<button class='hide button-plain' type='button'>покажи по-малко</button>
+</div>
+
+<div class='filter-group' id='type_laptop'>
+<h3>Вид лаптоп</h3>
+<div class='custom-scroll'>
+<p class=''>
+<input type="checkbox" name="type_laptop_id_in_all" id="type_laptop_id_in_all" value="all" class="all-scope" data-count="0" checked="checked" />
+<label for="type_laptop_id_in_all">Всички</label>
+</p>
+<p>
+<input type="checkbox" name="search[type_laptop_id_in][]" id="type_laptop_id_in_1" value="1" class="scope " data-count="13" />
+<label for="type_laptop_id_in_1">Notebook
+<span class='filter-count'>
+(13)
+</span>
+</label></p>
+<p>
+<input type="checkbox" name="search[type_laptop_id_in][]" id="type_laptop_id_in_2" value="2" class="scope " data-count="3" />
+<label for="type_laptop_id_in_2">Ultrabook
+<span class='filter-count'>
+(3)
+</span>
+</label></p>
+<p class='empty-filter-msg'>
+Няма опции, съответстващи на активните филтри
+</p>
+</div>
+<button class='show button-plain' type='button'>покажи всички</button>
+<button class='hide button-plain' type='button'>покажи по-малко</button>
+</div>
+
+<div class='filter-group' id='used_for_type'>
+<h3>Подходящ за</h3>
+<div class='custom-scroll'>
+<p class=''>
+<input type="checkbox" name="used_for_type_id_in_all" id="used_for_type_id_in_all" value="all" class="all-scope" data-count="0" checked="checked" />
+<label for="used_for_type_id_in_all">Всички</label>
+</p>
+<p>
+<input type="checkbox" name="search[used_for_type_id_in][]" id="used_for_type_id_in_2" value="2" class="scope " data-count="3" />
+<label for="used_for_type_id_in_2">Бизнес и образование
+<span class='filter-count'>
+(3)
+</span>
+</label></p>
+<p>
+<input type="checkbox" name="search[used_for_type_id_in][]" id="used_for_type_id_in_3" value="3" class="scope " data-count="8" />
+<label for="used_for_type_id_in_3">Умерен Гейминг
+<span class='filter-count'>
+(8)
+</span>
+</label></p>
+<p>
+<input type="checkbox" name="search[used_for_type_id_in][]" id="used_for_type_id_in_6" value="6" class="scope " data-count="5" />
+<label for="used_for_type_id_in_6">Сериозен гейминг
+<span class='filter-count'>
+(5)
+</span>
+</label></p>
+<p class='empty-filter-msg'>
+Няма опции, съответстващи на активните филтри
+</p>
+</div>
+<button class='show button-plain' type='button'>покажи всички</button>
+<button class='hide button-plain' type='button'>покажи по-малко</button>
+</div>
+
+<div class='filter-group' id='basic_color'>
+<h3>Цвят</h3>
+<div class='custom-scroll'>
+<p class='hidden'>
+<input type="checkbox" name="basic_color_id_in_all" id="basic_color_id_in_all" value="all" class="all-scope" data-count="0" checked="checked" />
+<label for="basic_color_id_in_all">Всички</label>
+</p>
+<p>
+<input type="checkbox" name="search[basic_color_id_in][]" id="basic_color_id_in_1" value="1" class="scope scope-color color-black" data-count="15" />
+<label title="Черен (15)" for="basic_color_id_in_1">Черен
+<span class='filter-count'>
+(15)
+</span>
+</label></p>
+<p>
+<input type="checkbox" name="search[basic_color_id_in][]" id="basic_color_id_in_5" value="5" class="scope scope-color color-blue" data-count="1" />
+<label title="Син (1)" for="basic_color_id_in_5">Син
+<span class='filter-count'>
+(1)
+</span>
+</label></p>
+<p class='empty-filter-msg'>
+Няма опции, съответстващи на активните филтри
+</p>
+</div>
+<button class='show button-plain' type='button'>покажи всички</button>
+<button class='hide button-plain' type='button'>покажи по-малко</button>
+</div>
+
+
+<div class='filter-group' id='cpu_type'>
+<h3>Процесор</h3>
+<div class='custom-scroll'>
+<p class=''>
+<input type="checkbox" name="cpu_type_id_in_all" id="cpu_type_id_in_all" value="all" class="all-scope" data-count="0" checked="checked" />
+<label for="cpu_type_id_in_all">Всички</label>
+</p>
+<p>
+<input type="checkbox" name="search[cpu_type_id_in][]" id="cpu_type_id_in_23" value="23" class="scope " data-count="1" />
+<label for="cpu_type_id_in_23">Intel Core i9 (осемядрен)
+<span class='filter-count'>
+(1)
+</span>
+</label></p>
+<p>
+<input type="checkbox" name="search[cpu_type_id_in][]" id="cpu_type_id_in_21" value="21" class="scope " data-count="8" />
+<label for="cpu_type_id_in_21">Intel Core i7 (шестядрен)
+<span class='filter-count'>
+(8)
+</span>
+</label></p>
+<p>
+<input type="checkbox" name="search[cpu_type_id_in][]" id="cpu_type_id_in_18" value="18" class="scope " data-count="7" />
+<label for="cpu_type_id_in_18">Intel Core i5  (четириядрен)
+<span class='filter-count'>
+(7)
+</span>
+</label></p>
+<p class='empty-filter-msg'>
+Няма опции, съответстващи на активните филтри
+</p>
+</div>
+<button class='show button-plain' type='button'>покажи всички</button>
+<button class='hide button-plain' type='button'>покажи по-малко</button>
+</div>
+
+<div class='filter-group' id='ram_type_capacity'>
+<h3>Оперативна памет</h3>
+<div class='custom-scroll'>
+<p class=''>
+<input type="checkbox" name="ram_type_capacity_id_in_all" id="ram_type_capacity_id_in_all" value="all" class="all-scope" data-count="0" checked="checked" />
+<label for="ram_type_capacity_id_in_all">Всички</label>
+</p>
+<p>
+<input type="checkbox" name="search[ram_type_capacity_id_in][]" id="ram_type_capacity_id_in_4" value="4" class="scope " data-count="8" />
+<label for="ram_type_capacity_id_in_4">8GB
+<span class='filter-count'>
+(8)
+</span>
+</label></p>
+<p>
+<input type="checkbox" name="search[ram_type_capacity_id_in][]" id="ram_type_capacity_id_in_6" value="6" class="scope " data-count="6" />
+<label for="ram_type_capacity_id_in_6">16GB
+<span class='filter-count'>
+(6)
+</span>
+</label></p>
+<p>
+<input type="checkbox" name="search[ram_type_capacity_id_in][]" id="ram_type_capacity_id_in_8" value="8" class="scope " data-count="2" />
+<label for="ram_type_capacity_id_in_8">32GB
+<span class='filter-count'>
+(2)
+</span>
+</label></p>
+<p class='empty-filter-msg'>
+Няма опции, съответстващи на активните филтри
+</p>
+</div>
+<button class='show button-plain' type='button'>покажи всички</button>
+<button class='hide button-plain' type='button'>покажи по-малко</button>
+</div>
+
+<div class='filter-group' id='videocard_version'>
+<h3>Видео карта</h3>
+<div class='custom-scroll'>
+<p class=''>
+<input type="checkbox" name="videocard_version_id_in_all" id="videocard_version_id_in_all" value="all" class="all-scope" data-count="0" checked="checked" />
+<label for="videocard_version_id_in_all">Всички</label>
+</p>
+<p>
+<input type="checkbox" name="search[videocard_version_id_in][]" id="videocard_version_id_in_31" value="31" class="scope " data-count="3" />
+<label for="videocard_version_id_in_31">NVIDIA GeForce RTX 2060
+<span class='filter-count'>
+(3)
+</span>
+</label></p>
+<p>
+<input type="checkbox" name="search[videocard_version_id_in][]" id="videocard_version_id_in_30" value="30" class="scope " data-count="1" />
+<label for="videocard_version_id_in_30">NVIDIA GeForce RTX 2070
+<span class='filter-count'>
+(1)
+</span>
+</label></p>
+<p>
+<input type="checkbox" name="search[videocard_version_id_in][]" id="videocard_version_id_in_33" value="33" class="scope " data-count="2" />
+<label for="videocard_version_id_in_33">NVIDIA GeForce RTX 2080
+<span class='filter-count'>
+(2)
+</span>
+</label></p>
+<p>
+<input type="checkbox" name="search[videocard_version_id_in][]" id="videocard_version_id_in_40" value="40" class="scope " data-count="3" />
+<label for="videocard_version_id_in_40">NVIDIA GeForce GTX 1650 Ti
+<span class='filter-count'>
+(3)
+</span>
+</label></p>
+<p>
+<input type="checkbox" name="search[videocard_version_id_in][]" id="videocard_version_id_in_36" value="36" class="scope " data-count="4" />
+<label for="videocard_version_id_in_36">NVIDIA GeForce GTX 1660 Ti
+<span class='filter-count'>
+(4)
+</span>
+</label></p>
+<p>
+<input type="checkbox" name="search[videocard_version_id_in][]" id="videocard_version_id_in_10" value="10" class="scope " data-count="3" />
+<label for="videocard_version_id_in_10">Intel UHD Graphics 6xx
+<span class='filter-count'>
+(3)
+</span>
+</label></p>
+<p class='empty-filter-msg'>
+Няма опции, съответстващи на активните филтри
+</p>
+</div>
+<button class='show button-plain' type='button'>покажи всички</button>
+<button class='hide button-plain' type='button'>покажи по-малко</button>
+</div>
+
+<div class='filter-group' id='vga_type'>
+<h3>Видео памет</h3>
+<div class='custom-scroll'>
+<p class=''>
+<input type="checkbox" name="vga_type_id_in_all" id="vga_type_id_in_all" value="all" class="all-scope" data-count="0" checked="checked" />
+<label for="vga_type_id_in_all">Всички</label>
+</p>
+<p>
+<input type="checkbox" name="search[vga_type_id_in][]" id="vga_type_id_in_7" value="7" class="scope " data-count="3" />
+<label for="vga_type_id_in_7">с 4 GB собствена памет
+<span class='filter-count'>
+(3)
+</span>
+</label></p>
+<p>
+<input type="checkbox" name="search[vga_type_id_in][]" id="vga_type_id_in_1" value="1" class="scope " data-count="3" />
+<label for="vga_type_id_in_1">без собствена памет
+<span class='filter-count'>
+(3)
+</span>
+</label></p>
+<p>
+<input type="checkbox" name="search[vga_type_id_in][]" id="vga_type_id_in_10" value="10" class="scope " data-count="7" />
+<label for="vga_type_id_in_10">с 6 GB собствена памет
+<span class='filter-count'>
+(7)
+</span>
+</label></p>
+<p>
+<input type="checkbox" name="search[vga_type_id_in][]" id="vga_type_id_in_2" value="2" class="scope " data-count="3" />
+<label for="vga_type_id_in_2">с 8 GB собствена памет
+<span class='filter-count'>
+(3)
+</span>
+</label></p>
+<p class='empty-filter-msg'>
+Няма опции, съответстващи на активните филтри
+</p>
+</div>
+<button class='show button-plain' type='button'>покажи всички</button>
+<button class='hide button-plain' type='button'>покажи по-малко</button>
+</div>
+
+<div class='filter-group' id='hdd_type_size'>
+<h3>Памет</h3>
+<div class='custom-scroll'>
+<p class=''>
+<input type="checkbox" name="hdd_type_size_id_in_all" id="hdd_type_size_id_in_all" value="all" class="all-scope" data-count="0" checked="checked" />
+<label for="hdd_type_size_id_in_all">Всички</label>
+</p>
+<p>
+<input type="checkbox" name="search[hdd_type_size_id_in][]" id="hdd_type_size_id_in_2" value="2" class="scope " data-count="12" />
+<label for="hdd_type_size_id_in_2">480-532GB
+<span class='filter-count'>
+(12)
+</span>
+</label></p>
+<p>
+<input type="checkbox" name="search[hdd_type_size_id_in][]" id="hdd_type_size_id_in_4" value="4" class="scope " data-count="2" />
+<label for="hdd_type_size_id_in_4">1000-1080GB
+<span class='filter-count'>
+(2)
+</span>
+</label></p>
+<p>
+<input type="checkbox" name="search[hdd_type_size_id_in][]" id="hdd_type_size_id_in_5" value="5" class="scope " data-count="1" />
+<label for="hdd_type_size_id_in_5">1500-1512GB
+<span class='filter-count'>
+(1)
+</span>
+</label></p>
+<p>
+<input type="checkbox" name="search[hdd_type_size_id_in][]" id="hdd_type_size_id_in_6" value="6" class="scope " data-count="1" />
+<label for="hdd_type_size_id_in_6">2000GB
+<span class='filter-count'>
+(1)
+</span>
+</label></p>
+<p class='empty-filter-msg'>
+Няма опции, съответстващи на активните филтри
+</p>
+</div>
+<button class='show button-plain' type='button'>покажи всички</button>
+<button class='hide button-plain' type='button'>покажи по-малко</button>
+</div>
+
+<div class='filter-group' id='ssd_size'>
+<h3>SSD</h3>
+<div class='custom-scroll'>
+<p class=''>
+<input type="checkbox" name="ssd_size_id_in_all" id="ssd_size_id_in_all" value="all" class="all-scope" data-count="0" checked="checked" />
+<label for="ssd_size_id_in_all">Всички</label>
+</p>
+<p>
+<input type="checkbox" name="search[ssd_size_id_in][]" id="ssd_size_id_in_4" value="4" class="scope " data-count="13" />
+<label for="ssd_size_id_in_4">500-512GB
+<span class='filter-count'>
+(13)
+</span>
+</label></p>
+<p>
+<input type="checkbox" name="search[ssd_size_id_in][]" id="ssd_size_id_in_5" value="5" class="scope " data-count="3" />
+<label for="ssd_size_id_in_5">1000-1024GB
+<span class='filter-count'>
+(3)
+</span>
+</label></p>
+<p class='empty-filter-msg'>
+Няма опции, съответстващи на активните филтри
+</p>
+</div>
+<button class='show button-plain' type='button'>покажи всички</button>
+<button class='hide button-plain' type='button'>покажи по-малко</button>
+</div>
+
+<div class='filter-group' id='display_size_type'>
+<h3>Екран </h3>
+<div class='custom-scroll'>
+<p>
+<input type="checkbox" name="display_size_type_btw_all" id="display_size_type_btw_all" value="all" class="all-scope" data-count="0" checked="checked" />
+<label for="display_size_type_btw_all">Всички</label>
+</p>
+<p>
+<input type="checkbox" name="search[display_size_type_btw][]" id="display_size_type_btw_14_00__14_99" value="14.00__14.99" class="scope" data-count="3" />
+<label for="display_size_type_btw_14_00__14_99">14.00 - 14.99 -инча
+<span class='filter-count'>
+(3)
+</span>
+</label></p>
+<p>
+<input type="checkbox" name="search[display_size_type_btw][]" id="display_size_type_btw_15_00__15_99" value="15.00__15.99" class="scope" data-count="10" />
+<label for="display_size_type_btw_15_00__15_99">15.00 - 15.99 -инча
+<span class='filter-count'>
+(10)
+</span>
+</label></p>
+<p>
+<input type="checkbox" name="search[display_size_type_btw][]" id="display_size_type_btw_16_00__17_99" value="16.00__17.99" class="scope" data-count="3" />
+<label for="display_size_type_btw_16_00__17_99">16.00 - 17.99 -инча
+<span class='filter-count'>
+(3)
+</span>
+</label></p>
+<p class='empty-filter-msg'>
+Няма опции, съответстващи на активните филтри
+</p>
+</div>
+<button class='show button-plain' type='button'>покажи всички</button>
+<button class='hide button-plain' type='button'>покажи по-малко</button>
+</div>
+
+<div class='filter-group' id='display_type'>
+<h3>Екран</h3>
+<div class='custom-scroll'>
+<p class=''>
+<input type="checkbox" name="display_type_id_in_all" id="display_type_id_in_all" value="all" class="all-scope" data-count="0" checked="checked" />
+<label for="display_type_id_in_all">Всички</label>
+</p>
+<p>
+<input type="checkbox" name="search[display_type_id_in][]" id="display_type_id_in_2" value="2" class="scope " data-count="16" />
+<label for="display_type_id_in_2">матов дисплей
+<span class='filter-count'>
+(16)
+</span>
+</label></p>
+<p class='empty-filter-msg'>
+Няма опции, съответстващи на активните филтри
+</p>
+</div>
+<button class='show button-plain' type='button'>покажи всички</button>
+<button class='hide button-plain' type='button'>покажи по-малко</button>
+</div>
+
+<div class='collapsed filter-group' id='display_refreshrate'>
+<h3>Честота на опресняване</h3>
+<div class='custom-scroll'>
+<p class=''>
+<input type="checkbox" name="display_refreshrate_id_in_all" id="display_refreshrate_id_in_all" value="all" class="all-scope" data-count="0" checked="checked" />
+<label for="display_refreshrate_id_in_all">Всички</label>
+</p>
+<p>
+<input type="checkbox" name="search[display_refreshrate_id_in][]" id="display_refreshrate_id_in_1" value="1" class="scope " data-count="3" />
+<label for="display_refreshrate_id_in_1">60Hz
+<span class='filter-count'>
+(3)
+</span>
+</label></p>
+<p>
+<input type="checkbox" name="search[display_refreshrate_id_in][]" id="display_refreshrate_id_in_3" value="3" class="scope " data-count="11" />
+<label for="display_refreshrate_id_in_3">144Hz
+<span class='filter-count'>
+(11)
+</span>
+</label></p>
+<p>
+<input type="checkbox" name="search[display_refreshrate_id_in][]" id="display_refreshrate_id_in_4" value="4" class="scope " data-count="2" />
+<label for="display_refreshrate_id_in_4">240Hz
+<span class='filter-count'>
+(2)
+</span>
+</label></p>
+<p class='empty-filter-msg'>
+Няма опции, съответстващи на активните филтри
+</p>
+</div>
+<button class='show button-plain' type='button'>покажи всички</button>
+<button class='hide button-plain' type='button'>покажи по-малко</button>
+</div>
+
+<div class='collapsed filter-group' id='resolution_size'>
+<h3>Разделителна способност</h3>
+<div class='custom-scroll'>
+<p class=''>
+<input type="checkbox" name="resolution_size_id_in_all" id="resolution_size_id_in_all" value="all" class="all-scope" data-count="0" checked="checked" />
+<label for="resolution_size_id_in_all">Всички</label>
+</p>
+<p>
+<input type="checkbox" name="search[resolution_size_id_in][]" id="resolution_size_id_in_5" value="5" class="scope " data-count="16" />
+<label for="resolution_size_id_in_5">1920x1080 Full HD
+<span class='filter-count'>
+(16)
+</span>
+</label></p>
+<p class='empty-filter-msg'>
+Няма опции, съответстващи на активните филтри
+</p>
+</div>
+<button class='show button-plain' type='button'>покажи всички</button>
+<button class='hide button-plain' type='button'>покажи по-малко</button>
+</div>
+
+<div class='collapsed filter-group' id='battery_type'>
+<h3>Батерия</h3>
+<div class='custom-scroll'>
+<p class=''>
+<input type="checkbox" name="battery_type_id_in_all" id="battery_type_id_in_all" value="all" class="all-scope" data-count="0" checked="checked" />
+<label for="battery_type_id_in_all">Всички</label>
+</p>
+<p>
+<input type="checkbox" name="search[battery_type_id_in][]" id="battery_type_id_in_4" value="4" class="scope " data-count="6" />
+<label for="battery_type_id_in_4">до 5 часa
+<span class='filter-count'>
+(6)
+</span>
+</label></p>
+<p>
+<input type="checkbox" name="search[battery_type_id_in][]" id="battery_type_id_in_5" value="5" class="scope " data-count="10" />
+<label for="battery_type_id_in_5">над 5 часа
+<span class='filter-count'>
+(10)
+</span>
+</label></p>
+<p class='empty-filter-msg'>
+Няма опции, съответстващи на активните филтри
+</p>
+</div>
+<button class='show button-plain' type='button'>покажи всички</button>
+<button class='hide button-plain' type='button'>покажи по-малко</button>
+</div>
+
+<div class='collapsed filter-group' id='weight_type'>
+<h3>Тегло </h3>
+<div class='custom-scroll'>
+<p>
+<input type="checkbox" name="weight_type_btw_all" id="weight_type_btw_all" value="all" class="all-scope" data-count="0" checked="checked" />
+<label for="weight_type_btw_all">Всички</label>
+</p>
+<p>
+<input type="checkbox" name="search[weight_type_btw][]" id="weight_type_btw_1_00__1_50" value="1.00__1.50" class="scope" data-count="3" />
+<label for="weight_type_btw_1_00__1_50">1.00 - 1.50  кг.
+<span class='filter-count'>
+(3)
+</span>
+</label></p>
+<p>
+<input type="checkbox" name="search[weight_type_btw][]" id="weight_type_btw_1_60__2_00" value="1.60__2.00" class="scope" data-count="7" />
+<label for="weight_type_btw_1_60__2_00">1.60 - 2.00  кг.
+<span class='filter-count'>
+(7)
+</span>
+</label></p>
+<p>
+<input type="checkbox" name="search[weight_type_btw][]" id="weight_type_btw_2_00__2_50" value="2.00__2.50" class="scope" data-count="5" />
+<label for="weight_type_btw_2_00__2_50">2.00 - 2.50  кг.
+<span class='filter-count'>
+(5)
+</span>
+</label></p>
+<p>
+<input type="checkbox" name="search[weight_type_btw][]" id="weight_type_btw_2_60__3_00" value="2.60__3.00" class="scope" data-count="1" />
+<label for="weight_type_btw_2_60__3_00">2.60 - 3.00  кг.
+<span class='filter-count'>
+(1)
+</span>
+</label></p>
+<p class='empty-filter-msg'>
+Няма опции, съответстващи на активните филтри
+</p>
+</div>
+<button class='show button-plain' type='button'>покажи всички</button>
+<button class='hide button-plain' type='button'>покажи по-малко</button>
+</div>
+
+<div class='collapsed filter-group' id='os_type'>
+<h3>Операционна система</h3>
+<div class='custom-scroll'>
+<p class=''>
+<input type="checkbox" name="os_type_id_in_all" id="os_type_id_in_all" value="all" class="all-scope" data-count="0" checked="checked" />
+<label for="os_type_id_in_all">Всички</label>
+</p>
+<p>
+<input type="checkbox" name="search[os_type_id_in][]" id="os_type_id_in_1" value="1" class="scope " data-count="14" />
+<label for="os_type_id_in_1">Без операционна система
+<span class='filter-count'>
+(14)
+</span>
+</label></p>
+<p>
+<input type="checkbox" name="search[os_type_id_in][]" id="os_type_id_in_10" value="10" class="scope " data-count="2" />
+<label for="os_type_id_in_10">С Windows 10
+<span class='filter-count'>
+(2)
+</span>
+</label></p>
+<p class='empty-filter-msg'>
+Няма опции, съответстващи на активните филтри
+</p>
+</div>
+<button class='show button-plain' type='button'>покажи всички</button>
+<button class='hide button-plain' type='button'>покажи по-малко</button>
+</div>
+
+<div class='collapsed filter-group' id='warranty_size'>
+<h3>Гаранция </h3>
+<div class='custom-scroll'>
+<p>
+<input type="checkbox" name="warranty_size_btw_all" id="warranty_size_btw_all" value="all" class="all-scope" data-count="0" checked="checked" />
+<label for="warranty_size_btw_all">Всички</label>
+</p>
+<p>
+<input type="checkbox" name="search[warranty_size_btw][]" id="warranty_size_btw_24__24" value="24__24" class="scope" data-count="14" />
+<label for="warranty_size_btw_24__24">24 - 24  месеца
+<span class='filter-count'>
+(14)
+</span>
+</label></p>
+<p>
+<input type="checkbox" name="search[warranty_size_btw][]" id="warranty_size_btw_36__36" value="36__36" class="scope" data-count="2" />
+<label for="warranty_size_btw_36__36">36 - 36  месеца
+<span class='filter-count'>
+(2)
+</span>
+</label></p>
+<p class='empty-filter-msg'>
+Няма опции, съответстващи на активните филтри
+</p>
+</div>
+<button class='show button-plain' type='button'>покажи всички</button>
+<button class='hide button-plain' type='button'>покажи по-малко</button>
+</div>
+
+<div class='collapsed filter-group' id='_checkboxes'>
+<h3>Други опции</h3>
+<div class='custom-scroll'>
+<div class='filter-simple'>
+<p>
+<input type="checkbox" name="search[ssd_eq]" id="ssd_eq" value="1" class="scope" data-count="16" />
+<label for="ssd_eq">SSD
+<span class='filter-count'>
+(16)
+</span>
+</label></p>
+</div>
+
+<div class='filter-simple'>
+<p>
+<input type="checkbox" name="search[ips_display_eq]" id="ips_display_eq" value="1" class="scope" data-count="16" />
+<label for="ips_display_eq">IPS екран
+<span class='filter-count'>
+(16)
+</span>
+</label></p>
+</div>
+
+
+<div class='filter-simple'>
+<p>
+<input type="checkbox" name="search[gddr_eq]" id="gddr_eq" value="1" class="scope" data-count="13" />
+<label for="gddr_eq">GDDR5 видеопамет
+<span class='filter-count'>
+(13)
+</span>
+</label></p>
+</div>
+
+<div class='filter-simple'>
+<p>
+<input type="checkbox" name="search[led_light_eq]" id="led_light_eq" value="1" class="scope" data-count="16" />
+<label for="led_light_eq">Подсветка на клавиатурата
+<span class='filter-count'>
+(16)
+</span>
+</label></p>
+</div>
+
+<div class='filter-simple'>
+<p>
+<input type="checkbox" name="search[displayport_eq]" id="displayport_eq" value="1" class="scope" data-count="5" />
+<label for="displayport_eq">DisplayPort/Thunderbolt
+<span class='filter-count'>
+(5)
+</span>
+</label></p>
+</div>
+
+
+
+<div class='filter-simple'>
+<p>
+<input type="checkbox" name="search[typec_eq]" id="typec_eq" value="1" class="scope" data-count="16" />
+<label for="typec_eq">USB Type-C
+<span class='filter-count'>
+(16)
+</span>
+</label></p>
+</div>
+
+<p class='empty-filter-msg'>
+Няма опции, съответстващи на активните филтри
+</p>
+</div>
+<button class='show button-plain' type='button'>покажи всички</button>
+<button class='hide button-plain' type='button'>покажи по-малко</button>
+</div>
+
+<div class='footer'>
+<button type='submit'>Филтрирай</button>
+</div>
+</form>
+
+</div>
+
+<main id='products-container'>
+<section class='applied-filters'>
+<header>
+<h3 aria-hidden='true'>Активни филтри</h3>
+<div class='buy'>
+<button class='action-button' id='filters-show' type='button'>
+<span>Добави филтри</span>
+<span class='hide-filters'>Скрий филтрите</span>
+</button>
+</div>
+</header>
+<span class='buttons-container'></span>
+<button aria-hidden='true' type='reset'>
+Изчисти всички
+</button>
+</section>
+
+<footer>
+<menu>
+<span>
+<label for='per_page'>Покажи по</label>
+<span class='select small inlined'>
+<select form='filters-form' id='per_page' name='per_page'>
+<option selected='selected' value='25'>25 продукта</option>
+<option value='50'>50 продукта</option>
+<option value='100'>100 продукта</option>
+</select>
+<i></i>
+</span>
+</span>
+<span>
+<label for='sort'>Подреди по</label>
+<span class='select small inlined'>
+<select form='filters-form' id='sort' name='search[s]'>
+<option selected='selected' value='promo_asc'>Промоции</option>
+<option value='price_asc'>Най-ниска цена</option>
+<option value='price_desc'>Най-висока цена</option>
+<option value='created_at_desc'>Най-нови</option>
+<option value='created_at_asc'>Най-стари</option>
+</select>
+<i></i>
+</span>
+</span>
+</menu>
+</footer>
+
+<nav class='brands'>
+<ul>
+<li>
+<a title="Dell" href="/laptops-dell"><img alt="Dell" src="/system/brands/dell/dell-logo-0cfcb3cac0360e2dabc5701b1cf1d441887be373.svg" />
+</a></li>
+<li>
+<a title="Asus" href="/laptops-asus"><img alt="Asus" src="/system/brands/asus/asus-logo-52ca4f18ddd84346ba3bf8454e28eae1640e4bb2.svg" />
+</a></li>
+<li>
+<a title="Lenovo" href="/laptops-lenovo"><img alt="Lenovo" src="/system/brands/lenovo/lenovo-logo-3230f900acd6af02db13963433e6e8fac84b19a0.svg" />
+</a></li>
+<li>
+<a title="Acer" href="/laptops-acer"><img alt="Acer" src="/system/brands/acer/acer-logo-4b8022548ab062ce9ee126f6811c06e34fb1d424.svg" />
+</a></li>
+<li>
+<a title="HP" href="/laptops-hp"><img alt="HP" src="/system/brands/hp/hp-logo-d938f38627a1c9b62c8d43ccef23fb20e38bada0.svg" />
+</a></li>
+<li>
+<a title="Huawei" href="/laptops-huawei"><img alt="Huawei" src="/system/brands/huawei/huawei-logo-7ecd1c792af798c225ebf2ca54df71e266755253.svg" />
+</a></li>
+<li>
+<a title="MSI" href="/laptops-msi"><img alt="MSI" src="/system/brands/msi/msi-logo-a2c75a3f6a87a17e8a3ad14512df94cc6098cbd9.svg" />
+</a></li>
+<li>
+<a title="Apple" href="/laptops-apple"><img alt="Apple" src="/system/brands/apple/apple-logo-eaa838ac8be514889bc0669082541e67b0c14bf1.svg" />
+</a></li>
+<li>
+<a title="Microsoft" href="/laptops-microsoft"><img alt="Microsoft" src="/system/brands/microsoft/microsoft-logo-f6cd7d56ae4ef577a83229d1504422a6897ccf35.svg" />
+</a></li>
+<li>
+<a title="Toshiba" href="/laptops-toshiba"><img alt="Toshiba" src="/system/brands/toshiba/toshiba-logo-a5aa086c7239ffb86ceb816ccc9305eaaf937524.svg" />
+</a></li>
+<li>
+<a title="Fujitsu" href="/laptops-fujitsu"><img alt="Fujitsu" src="/system/brands/fujitsu/fujitsu-logo-add8b02bd70dc156a902c5e63a68fb1999452fff.svg" />
+</a></li>
+</ul>
+<button class='show button-plain' type='button'>покажи всички марки</button>
+<button class='hide button-plain' type='button'>покажи по-малко марки</button>
+</nav>
+<ul class='products'>
+<li class=' bestseller promo with-percent' id='product_85348'>
+<article>
+<a href='https://laptop.bg/laptops-msi-Modern_14_B10-msi_modern_14_b10mw_9S714D111211' title='MSI Modern 14 B10MW'>
+<img alt='Лаптопи MSI Modern 14 B10MW' aria-hidden='true' sizes='(min-width: 54.375em) 12.5em, 5em' src='/system/images/263536/large/msi_modern_14_b10mw_9S714D111211.jpg' srcset='/system/images/263536/small/msi_modern_14_b10mw_9S714D111211.jpg 80w, /system/images/263536/medium/msi_modern_14_b10mw_9S714D111211.jpg 145w, /system/images/263536/large/msi_modern_14_b10mw_9S714D111211.jpg 190w'>
+<h2>MSI Modern 14 B10MW</h2>
+<ul>
+<li>Intel Core i5-10210U</li>
+<li>Intel UHD Graphics</li>
+<li>от 8GB до 32GB DDR4</li>
+<li>от 512GB SSD NVMe до 2TB SSD NVMe</li>
+</ul>
+</a>
+<div class='price-container'>
+<span class='visuallyhidden'>Цена:</span>
+<span class='price'>1399<span class='currency'>лв.</span></span>
+<del>
+<span><span class='visuallyhidden'>Намалено от</span>1499лв.</span>
+<em>(-6%)</em>
+</del>
+
+
+<a class="brand-logo brand-msi" title="Виж всички продукти с марка MSI" href="/brands-msi">Виж всички продукти с марка MSI</a>
+</div>
+<div class='product-footer'>
+<form class="compare-form" id="compare-form-20232" action="/products/toggle_compare?id=20232&amp;model_type=laptop" accept-charset="UTF-8" data-remote="true" method="post"><input name="utf8" type="hidden" value="&#x2713;" />
+<input type="hidden" name="tabname" value="laptop-tab" />
+<input type="hidden" name="id" value="20232" />
+<input type="checkbox" name="compare-checkbox" id="compare-checkbox-20232" value="1" />
+<label for="compare-checkbox-20232">Сравни</label>
+<svg version="1.1" viewBox="0 0 62 62">
+  <circle cx="32" cy="32" r="28"/>
+</svg>
+
+</form>
+
+
+</div>
+<span aria-hidden='true' class='promo-percent'>-6%</span>
+</article>
+</li>
+<li class=' new promo with-percent' id='product_86306'>
+<article>
+<a href='https://laptop.bg/laptops-msi-Modern_14_B10-msi_modern_14_b10mw_9S714D111211Win10Pro' title='MSI Modern 14 B10MW'>
+<img alt='Лаптопи MSI Modern 14 B10MW' aria-hidden='true' sizes='(min-width: 54.375em) 12.5em, 5em' src='/system/images/268693/large/msi_modern_14_b10mw_9S714D111211Win10Pro.jpg' srcset='/system/images/268693/small/msi_modern_14_b10mw_9S714D111211Win10Pro.jpg 80w, /system/images/268693/medium/msi_modern_14_b10mw_9S714D111211Win10Pro.jpg 145w, /system/images/268693/large/msi_modern_14_b10mw_9S714D111211Win10Pro.jpg 190w'>
+<h2>MSI Modern 14 B10MW</h2>
+<ul>
+<li>Intel Core i5-10210U</li>
+<li>Intel UHD Graphics</li>
+<li>от 8GB до 32GB DDR4</li>
+<li>от 512GB SSD NVMe до 2TB SSD NVMe</li>
+</ul>
+</a>
+<div class='price-container'>
+<span class='visuallyhidden'>Цена:</span>
+<span class='price'>1699<span class='currency'>лв.</span></span>
+<del>
+<span><span class='visuallyhidden'>Намалено от</span>2199лв.</span>
+<em>(-22%)</em>
+</del>
+
+
+<a class="brand-logo brand-msi" title="Виж всички продукти с марка MSI" href="/brands-msi">Виж всички продукти с марка MSI</a>
+</div>
+<div class='product-footer'>
+<form class="compare-form" id="compare-form-20385" action="/products/toggle_compare?id=20385&amp;model_type=laptop" accept-charset="UTF-8" data-remote="true" method="post"><input name="utf8" type="hidden" value="&#x2713;" />
+<input type="hidden" name="tabname" value="laptop-tab" />
+<input type="hidden" name="id" value="20385" />
+<input type="checkbox" name="compare-checkbox" id="compare-checkbox-20385" value="1" />
+<label for="compare-checkbox-20385">Сравни</label>
+<svg version="1.1" viewBox="0 0 62 62">
+  <circle cx="32" cy="32" r="28"/>
+</svg>
+
+</form>
+
+
+</div>
+<span aria-hidden='true' class='promo-percent'>-22%</span>
+</article>
+</li>
+<li class=' bestseller promo with-percent' id='product_85697'>
+<article>
+<a href='https://laptop.bg/laptops-msi-MSI_GF63-msi_gf63_thin_10scsr_9S716R4121021' title='MSI GF63 Thin 10SCSR'>
+<img alt='Лаптопи MSI GF63 Thin 10SCSR' aria-hidden='true' sizes='(min-width: 54.375em) 12.5em, 5em' src='/system/images/267507/large/msi_gf63_thin_10scsr_9S716R4121021.png' srcset='/system/images/267507/small/msi_gf63_thin_10scsr_9S716R4121021.png 80w, /system/images/267507/medium/msi_gf63_thin_10scsr_9S716R4121021.png 145w, /system/images/267507/large/msi_gf63_thin_10scsr_9S716R4121021.png 190w'>
+<h2>MSI GF63 Thin 10SCSR</h2>
+<ul>
+<li>Intel Core i5-10300H</li>
+<li>NVIDIA GeForce GTX 1650 Ti Max-Q</li>
+<li>от 8GB до 64GB DDR4</li>
+<li>от 512GB SSD NVMe до 3TB (SSD NVMe и HDD)</li>
+</ul>
+</a>
+<div class='gift-container'>
+<h3>В комплект с</h3>
+<ul class='gifts'>
+<li>
+<a title="MSI: Marvel&#39;s Avengers" href="https://laptop.bg/games-msi_marvels_avengers"><img alt="Игри MSI: Marvel&#39;s Avengers" width="40" height="30" src="/system/images/263161/small/msi_marvels_avengers.jpg" /></a>
+</li>
+</ul>
+</div>
+<div class='price-container'>
+<span class='visuallyhidden'>Цена:</span>
+<span class='price'>1799<span class='currency'>лв.</span></span>
+<del>
+<span><span class='visuallyhidden'>Намалено от</span>1899лв.</span>
+<em>(-5%)</em>
+</del>
+
+
+<a class="brand-logo brand-msi" title="Виж всички продукти с марка MSI" href="/brands-msi">Виж всички продукти с марка MSI</a>
+</div>
+<div class='product-footer'>
+<form class="compare-form" id="compare-form-20289" action="/products/toggle_compare?id=20289&amp;model_type=laptop" accept-charset="UTF-8" data-remote="true" method="post"><input name="utf8" type="hidden" value="&#x2713;" />
+<input type="hidden" name="tabname" value="laptop-tab" />
+<input type="hidden" name="id" value="20289" />
+<input type="checkbox" name="compare-checkbox" id="compare-checkbox-20289" value="1" />
+<label for="compare-checkbox-20289">Сравни</label>
+<svg version="1.1" viewBox="0 0 62 62">
+  <circle cx="32" cy="32" r="28"/>
+</svg>
+
+</form>
+
+
+</div>
+<span aria-hidden='true' class='promo-percent'>-5%</span>
+</article>
+</li>
+<li class=' new promo with-percent' id='product_86307'>
+<article>
+<a href='https://laptop.bg/laptops-msi-MSI_GF63-msi_gf63_thin_10scsr_9S716R412102116GB' title='MSI GF63 Thin 10SCSR'>
+<img alt='Лаптопи MSI GF63 Thin 10SCSR' aria-hidden='true' sizes='(min-width: 54.375em) 12.5em, 5em' src='/system/images/268703/large/msi_gf63_thin_10scsr_9S716R412102116GB.png' srcset='/system/images/268703/small/msi_gf63_thin_10scsr_9S716R412102116GB.png 80w, /system/images/268703/medium/msi_gf63_thin_10scsr_9S716R412102116GB.png 145w, /system/images/268703/large/msi_gf63_thin_10scsr_9S716R412102116GB.png 190w'>
+<h2>MSI GF63 Thin 10SCSR</h2>
+<ul>
+<li>Intel Core i5-10300H</li>
+<li>NVIDIA GeForce GTX 1650 Ti Max-Q</li>
+<li>от 16GB до 64GB DDR4</li>
+<li>от 512GB SSD NVMe до 3TB (SSD NVMe и HDD)</li>
+</ul>
+</a>
+<div class='gift-container'>
+<h3>В комплект с</h3>
+<ul class='gifts'>
+<li>
+<a title="MSI: Marvel&#39;s Avengers" href="https://laptop.bg/games-msi_marvels_avengers"><img alt="Игри MSI: Marvel&#39;s Avengers" width="40" height="30" src="/system/images/263161/small/msi_marvels_avengers.jpg" /></a>
+</li>
+</ul>
+</div>
+<div class='price-container'>
+<span class='visuallyhidden'>Цена:</span>
+<span class='price'>1899<span class='currency'>лв.</span></span>
+<del>
+<span><span class='visuallyhidden'>Намалено от</span>2199лв.</span>
+<em>(-13%)</em>
+</del>
+
+
+<a class="brand-logo brand-msi" title="Виж всички продукти с марка MSI" href="/brands-msi">Виж всички продукти с марка MSI</a>
+</div>
+<div class='product-footer'>
+<form class="compare-form" id="compare-form-20386" action="/products/toggle_compare?id=20386&amp;model_type=laptop" accept-charset="UTF-8" data-remote="true" method="post"><input name="utf8" type="hidden" value="&#x2713;" />
+<input type="hidden" name="tabname" value="laptop-tab" />
+<input type="hidden" name="id" value="20386" />
+<input type="checkbox" name="compare-checkbox" id="compare-checkbox-20386" value="1" />
+<label for="compare-checkbox-20386">Сравни</label>
+<svg version="1.1" viewBox="0 0 62 62">
+  <circle cx="32" cy="32" r="28"/>
+</svg>
+
+</form>
+
+
+</div>
+<span aria-hidden='true' class='promo-percent'>-13%</span>
+</article>
+</li>
+<li class=' bestseller promo with-percent' id='product_85344'>
+<article>
+<a href='https://laptop.bg/laptops-msi-MSI_GF63-msi_gf63_thin_10scsr_9S716R412821' title='MSI GF63 Thin 10SCSR'>
+<img alt='Лаптопи MSI GF63 Thin 10SCSR' aria-hidden='true' sizes='(min-width: 54.375em) 12.5em, 5em' src='/system/images/266966/large/msi_gf63_thin_10scsr_9S716R412821.png' srcset='/system/images/266966/small/msi_gf63_thin_10scsr_9S716R412821.png 80w, /system/images/266966/medium/msi_gf63_thin_10scsr_9S716R412821.png 145w, /system/images/266966/large/msi_gf63_thin_10scsr_9S716R412821.png 190w'>
+<h2>MSI GF63 Thin 10SCSR</h2>
+<ul>
+<li>Intel Core i7-10750H</li>
+<li>NVIDIA GeForce GTX 1650 Ti Max-Q</li>
+<li>от 16GB до 64GB DDR4</li>
+<li>от 512GB SSD NVMe до 3TB (SSD NVMe и HDD)</li>
+</ul>
+</a>
+<div class='gift-container'>
+<h3>В комплект с</h3>
+<ul class='gifts'>
+<li>
+<a title="MSI: Marvel&#39;s Avengers" href="https://laptop.bg/games-msi_marvels_avengers"><img alt="Игри MSI: Marvel&#39;s Avengers" width="40" height="30" src="/system/images/263161/small/msi_marvels_avengers.jpg" /></a>
+</li>
+</ul>
+</div>
+<div class='price-container'>
+<span class='visuallyhidden'>Цена:</span>
+<span class='price'>1999<span class='currency'>лв.</span></span>
+<del>
+<span><span class='visuallyhidden'>Намалено от</span>2149лв.</span>
+<em>(-6%)</em>
+</del>
+
+
+<a class="brand-logo brand-msi" title="Виж всички продукти с марка MSI" href="/brands-msi">Виж всички продукти с марка MSI</a>
+</div>
+<div class='product-footer'>
+<form class="compare-form" id="compare-form-20228" action="/products/toggle_compare?id=20228&amp;model_type=laptop" accept-charset="UTF-8" data-remote="true" method="post"><input name="utf8" type="hidden" value="&#x2713;" />
+<input type="hidden" name="tabname" value="laptop-tab" />
+<input type="hidden" name="id" value="20228" />
+<input type="checkbox" name="compare-checkbox" id="compare-checkbox-20228" value="1" />
+<label for="compare-checkbox-20228">Сравни</label>
+<svg version="1.1" viewBox="0 0 62 62">
+  <circle cx="32" cy="32" r="28"/>
+</svg>
+
+</form>
+
+
+</div>
+<span aria-hidden='true' class='promo-percent'>-6%</span>
+</article>
+</li>
+<li class=' promo' id='product_85346'>
+<article>
+<a href='https://laptop.bg/laptops-msi-GF65_Thin-msi_gf65_thin_10sdr_9S716W112872' title='MSI GF65 Thin 10SDR'>
+<img alt='Лаптопи MSI GF65 Thin 10SDR' aria-hidden='true' sizes='(min-width: 54.375em) 12.5em, 5em' src='/system/images/267799/large/msi_gf65_thin_10sdr_9S716W112872.png' srcset='/system/images/267799/small/msi_gf65_thin_10sdr_9S716W112872.png 80w, /system/images/267799/medium/msi_gf65_thin_10sdr_9S716W112872.png 145w, /system/images/267799/large/msi_gf65_thin_10sdr_9S716W112872.png 190w'>
+<h2>MSI GF65 Thin 10SDR</h2>
+<ul>
+<li>Intel Core i5-10300H</li>
+<li>NVIDIA GeForce GTX 1660 Ti</li>
+<li>от 8GB до 64GB DDR4</li>
+<li>от 512GB SSD NVMe до 2512GB SSD NVMe</li>
+</ul>
+</a>
+<div class='gift-container'>
+<h3>В комплект с</h3>
+<ul class='gifts'>
+<li>
+<a title="MSI: Marvel&#39;s Avengers" href="https://laptop.bg/games-msi_marvels_avengers"><img alt="Игри MSI: Marvel&#39;s Avengers" width="40" height="30" src="/system/images/263161/small/msi_marvels_avengers.jpg" /></a>
+</li>
+</ul>
+</div>
+<div class='price-container'>
+<span class='visuallyhidden'>Цена:</span>
+<span class='price'>2099<span class='currency'>лв.</span></span>
+<del>
+<span><span class='visuallyhidden'>Намалено от</span>2199лв.</span>
+<em>(-100лв.)</em>
+</del>
+
+
+<a class="brand-logo brand-msi" title="Виж всички продукти с марка MSI" href="/brands-msi">Виж всички продукти с марка MSI</a>
+</div>
+<div class='product-footer'>
+<form class="compare-form" id="compare-form-20230" action="/products/toggle_compare?id=20230&amp;model_type=laptop" accept-charset="UTF-8" data-remote="true" method="post"><input name="utf8" type="hidden" value="&#x2713;" />
+<input type="hidden" name="tabname" value="laptop-tab" />
+<input type="hidden" name="id" value="20230" />
+<input type="checkbox" name="compare-checkbox" id="compare-checkbox-20230" value="1" />
+<label for="compare-checkbox-20230">Сравни</label>
+<svg version="1.1" viewBox="0 0 62 62">
+  <circle cx="32" cy="32" r="28"/>
+</svg>
+
+</form>
+
+
+</div>
+</article>
+</li>
+<li class=' promo with-percent' id='product_85345'>
+<article>
+<a href='https://laptop.bg/laptops-msi-GF65_Thin-msi_gf65_thin_10sdr_9S716W112871' title='MSI GF65 Thin 10SDR'>
+<img alt='Лаптопи MSI GF65 Thin 10SDR' aria-hidden='true' sizes='(min-width: 54.375em) 12.5em, 5em' src='/system/images/267779/large/msi_gf65_thin_10sdr_9S716W112871.png' srcset='/system/images/267779/small/msi_gf65_thin_10sdr_9S716W112871.png 80w, /system/images/267779/medium/msi_gf65_thin_10sdr_9S716W112871.png 145w, /system/images/267779/large/msi_gf65_thin_10sdr_9S716W112871.png 190w'>
+<h2>MSI GF65 Thin 10SDR</h2>
+<ul>
+<li>Intel Core i7-10750H</li>
+<li>NVIDIA GeForce GTX 1660 Ti</li>
+<li>от 8GB до 64GB DDR4</li>
+<li>от 512GB SSD NVMe до 2512GB SSD NVMe</li>
+</ul>
+</a>
+<div class='gift-container'>
+<h3>В комплект с</h3>
+<ul class='gifts'>
+<li>
+<a title="MSI: Marvel&#39;s Avengers" href="https://laptop.bg/games-msi_marvels_avengers"><img alt="Игри MSI: Marvel&#39;s Avengers" width="40" height="30" src="/system/images/263161/small/msi_marvels_avengers.jpg" /></a>
+</li>
+</ul>
+</div>
+<div class='price-container'>
+<span class='visuallyhidden'>Цена:</span>
+<span class='price'>2199<span class='currency'>лв.</span></span>
+<del>
+<span><span class='visuallyhidden'>Намалено от</span>2399лв.</span>
+<em>(-8%)</em>
+</del>
+
+
+<a class="brand-logo brand-msi" title="Виж всички продукти с марка MSI" href="/brands-msi">Виж всички продукти с марка MSI</a>
+</div>
+<div class='product-footer'>
+<form class="compare-form" id="compare-form-20229" action="/products/toggle_compare?id=20229&amp;model_type=laptop" accept-charset="UTF-8" data-remote="true" method="post"><input name="utf8" type="hidden" value="&#x2713;" />
+<input type="hidden" name="tabname" value="laptop-tab" />
+<input type="hidden" name="id" value="20229" />
+<input type="checkbox" name="compare-checkbox" id="compare-checkbox-20229" value="1" />
+<label for="compare-checkbox-20229">Сравни</label>
+<svg version="1.1" viewBox="0 0 62 62">
+  <circle cx="32" cy="32" r="28"/>
+</svg>
+
+</form>
+
+
+</div>
+<span aria-hidden='true' class='promo-percent'>-8%</span>
+</article>
+</li>
+<li class=' bestseller promo with-percent' id='product_85342'>
+<article>
+<a href='https://laptop.bg/laptops-msi-GL65_Leopard-msi_gl65_leopard_10ser' title='MSI GL65 Leopard 10SER'>
+<img alt='Лаптопи MSI GL65 Leopard 10SER' aria-hidden='true' sizes='(min-width: 54.375em) 12.5em, 5em' src='/system/images/267707/large/msi_gl65_leopard_10ser.png' srcset='/system/images/267707/small/msi_gl65_leopard_10ser.png 80w, /system/images/267707/medium/msi_gl65_leopard_10ser.png 145w, /system/images/267707/large/msi_gl65_leopard_10ser.png 190w'>
+<h2>MSI GL65 Leopard 10SER</h2>
+<ul>
+<li>Intel Core i5-10300H</li>
+<li>NVIDIA GeForce RTX 2060</li>
+<li>от 8GB до 64GB DDR4</li>
+<li>от 512GB SSD NVMe до 3TB (SSD NVMe и HDD)</li>
+</ul>
+</a>
+<div class='gift-container'>
+<h3>В комплект с</h3>
+<ul class='gifts'>
+<li>
+<a title="MSI: Marvel&#39;s Avengers" href="https://laptop.bg/games-msi_marvels_avengers"><img alt="Игри MSI: Marvel&#39;s Avengers" width="40" height="30" src="/system/images/263161/small/msi_marvels_avengers.jpg" /></a>
+</li>
+<li>
+<a title="MSI Gaming Mouse M99" href="https://laptop.bg/mice-msi-msi_gaming_mouse_m99"><img alt="Мишки MSI Gaming Mouse M99" width="40" height="30" src="/system/images/269960/small/msi_gaming_mouse_m99_gift.png" /></a>
+</li>
+</ul>
+</div>
+<div class='price-container'>
+<span class='visuallyhidden'>Цена:</span>
+<span class='price'>2299<span class='currency'>лв.</span></span>
+<del>
+<span><span class='visuallyhidden'>Намалено от</span>2499лв.</span>
+<em>(-8%)</em>
+</del>
+
+
+<a class="brand-logo brand-msi" title="Виж всички продукти с марка MSI" href="/brands-msi">Виж всички продукти с марка MSI</a>
+</div>
+<div class='product-footer'>
+<form class="compare-form" id="compare-form-20227" action="/products/toggle_compare?id=20227&amp;model_type=laptop" accept-charset="UTF-8" data-remote="true" method="post"><input name="utf8" type="hidden" value="&#x2713;" />
+<input type="hidden" name="tabname" value="laptop-tab" />
+<input type="hidden" name="id" value="20227" />
+<input type="checkbox" name="compare-checkbox" id="compare-checkbox-20227" value="1" />
+<label for="compare-checkbox-20227">Сравни</label>
+<svg version="1.1" viewBox="0 0 62 62">
+  <circle cx="32" cy="32" r="28"/>
+</svg>
+
+</form>
+
+
+</div>
+<span aria-hidden='true' class='promo-percent'>-8%</span>
+</article>
+</li>
+<li class=' bestseller promo with-percent' id='product_85702'>
+<article>
+<a href='https://laptop.bg/laptops-msi-GF75_Thin-msi_gf75_thin_10sdr435xbg' title='MSI GF75 Thin 10SDR-435XBG'>
+<img alt='Лаптопи MSI GF75 Thin 10SDR-435XBG' aria-hidden='true' sizes='(min-width: 54.375em) 12.5em, 5em' src='/system/images/267775/large/msi_gf75_thin_10sdr435xbg.png' srcset='/system/images/267775/small/msi_gf75_thin_10sdr435xbg.png 80w, /system/images/267775/medium/msi_gf75_thin_10sdr435xbg.png 145w, /system/images/267775/large/msi_gf75_thin_10sdr435xbg.png 190w'>
+<h2>MSI GF75 Thin 10SDR-435XBG</h2>
+<ul>
+<li>Intel Core i7-10750H</li>
+<li>NVIDIA GeForce GTX 1660 Ti</li>
+<li>от 16GB до 64GB DDR4</li>
+<li>от 512GB SSD NVMe до 8TB SSD NVMe</li>
+</ul>
+</a>
+<div class='gift-container'>
+<h3>В комплект с</h3>
+<ul class='gifts'>
+<li>
+<a title="MSI: Marvel&#39;s Avengers" href="https://laptop.bg/games-msi_marvels_avengers"><img alt="Игри MSI: Marvel&#39;s Avengers" width="40" height="30" src="/system/images/263161/small/msi_marvels_avengers.jpg" /></a>
+</li>
+<li>
+<a title="MSI Loot Box Pack S" href="https://laptop.bg/games-msi_loot_box_pack_s"><img alt="Игри MSI Loot Box Pack S" width="40" height="30" src="/system/images/269984/small/msi_loot_box_pack_s.png" /></a>
+</li>
+</ul>
+</div>
+<div class='price-container'>
+<span class='visuallyhidden'>Цена:</span>
+<span class='price'>2299<span class='currency'>лв.</span></span>
+<del>
+<span><span class='visuallyhidden'>Намалено от</span>2449лв.</span>
+<em>(-6%)</em>
+</del>
+
+
+<a class="brand-logo brand-msi" title="Виж всички продукти с марка MSI" href="/brands-msi">Виж всички продукти с марка MSI</a>
+</div>
+<div class='product-footer'>
+<form class="compare-form" id="compare-form-20290" action="/products/toggle_compare?id=20290&amp;model_type=laptop" accept-charset="UTF-8" data-remote="true" method="post"><input name="utf8" type="hidden" value="&#x2713;" />
+<input type="hidden" name="tabname" value="laptop-tab" />
+<input type="hidden" name="id" value="20290" />
+<input type="checkbox" name="compare-checkbox" id="compare-checkbox-20290" value="1" />
+<label for="compare-checkbox-20290">Сравни</label>
+<svg version="1.1" viewBox="0 0 62 62">
+  <circle cx="32" cy="32" r="28"/>
+</svg>
+
+</form>
+
+
+</div>
+<span aria-hidden='true' class='promo-percent'>-6%</span>
+</article>
+</li>
+<li class='ad'>
+<a href="https://laptop.bg/lenovo_legion_5_15?utm_campaign=legion%205&amp;utm_medium=listing%20banner&amp;utm_source=laptop.bg"><img alt="Legion 5" title="Legion 5" src="/system/image_banners/images/lenovo_legion_5_220x360-c5d4381ddacdc4b99ffe57803dc051ff5c784582.jpg" /></a>
+</li>
+<li class=' new promo' id='product_86332'>
+<article>
+<a href='https://laptop.bg/laptops-msi-GF65_Thin-msi_gf65_thin_10sdr_9S716W11287116GB1TBSSD' title='MSI GF65 Thin 10SDR'>
+<img alt='Лаптопи MSI GF65 Thin 10SDR' aria-hidden='true' sizes='(min-width: 54.375em) 12.5em, 5em' src='/system/images/268939/large/msi_gf65_thin_10sdr_9S716W11287116GB1TBSSD.png' srcset='/system/images/268939/small/msi_gf65_thin_10sdr_9S716W11287116GB1TBSSD.png 80w, /system/images/268939/medium/msi_gf65_thin_10sdr_9S716W11287116GB1TBSSD.png 145w, /system/images/268939/large/msi_gf65_thin_10sdr_9S716W11287116GB1TBSSD.png 190w'>
+<h2>MSI GF65 Thin 10SDR</h2>
+<ul>
+<li>Intel Core i7-10750H</li>
+<li>NVIDIA GeForce GTX 1660 Ti</li>
+<li>от 16GB до 64GB DDR4</li>
+<li>от 1TB SSD NVMe до 2512GB SSD NVMe</li>
+</ul>
+</a>
+<div class='gift-container'>
+<h3>В комплект с</h3>
+<ul class='gifts'>
+<li>
+<a title="MSI: Marvel&#39;s Avengers" href="https://laptop.bg/games-msi_marvels_avengers"><img alt="Игри MSI: Marvel&#39;s Avengers" width="40" height="30" src="/system/images/263161/small/msi_marvels_avengers.jpg" /></a>
+</li>
+</ul>
+</div>
+<div class='price-container'>
+<span class='visuallyhidden'>Цена:</span>
+<span class='price'>2399<span class='currency'>лв.</span></span>
+<del>
+<span><span class='visuallyhidden'>Намалено от</span>2499лв.</span>
+<em>(-100лв.)</em>
+</del>
+
+
+<a class="brand-logo brand-msi" title="Виж всички продукти с марка MSI" href="/brands-msi">Виж всички продукти с марка MSI</a>
+</div>
+<div class='product-footer'>
+<form class="compare-form" id="compare-form-20398" action="/products/toggle_compare?id=20398&amp;model_type=laptop" accept-charset="UTF-8" data-remote="true" method="post"><input name="utf8" type="hidden" value="&#x2713;" />
+<input type="hidden" name="tabname" value="laptop-tab" />
+<input type="hidden" name="id" value="20398" />
+<input type="checkbox" name="compare-checkbox" id="compare-checkbox-20398" value="1" />
+<label for="compare-checkbox-20398">Сравни</label>
+<svg version="1.1" viewBox="0 0 62 62">
+  <circle cx="32" cy="32" r="28"/>
+</svg>
+
+</form>
+
+
+</div>
+</article>
+</li>
+<li class=' promo with-percent' id='product_82933'>
+<article>
+<a href='https://laptop.bg/laptops-msi-GP65_Leopard-msi_gp65_leopard_10sek' title='MSI GP65 Leopard 10SEK'>
+<img alt='Лаптопи MSI GP65 Leopard 10SEK' aria-hidden='true' sizes='(min-width: 54.375em) 12.5em, 5em' src='/system/images/267748/large/msi_gp65_leopard_10sek.png' srcset='/system/images/267748/small/msi_gp65_leopard_10sek.png 80w, /system/images/267748/medium/msi_gp65_leopard_10sek.png 145w, /system/images/267748/large/msi_gp65_leopard_10sek.png 190w'>
+<h2>MSI GP65 Leopard 10SEK</h2>
+<ul>
+<li>Intel Core i7-10750H</li>
+<li>NVIDIA GeForce RTX 2060</li>
+<li>от 16GB до 64GB DDR4</li>
+<li>от 512GB SSD NVMe до 3TB (SSD NVMe и HDD)</li>
+</ul>
+</a>
+<div class='gift-container'>
+<h3>В комплект с</h3>
+<ul class='gifts'>
+<li>
+<a title="MSI: Marvel&#39;s Avengers" href="https://laptop.bg/games-msi_marvels_avengers"><img alt="Игри MSI: Marvel&#39;s Avengers" width="40" height="30" src="/system/images/263161/small/msi_marvels_avengers.jpg" /></a>
+</li>
+</ul>
+</div>
+<div class='price-container'>
+<span class='visuallyhidden'>Цена:</span>
+<span class='price'>2799<span class='currency'>лв.</span></span>
+<del>
+<span><span class='visuallyhidden'>Намалено от</span>3099лв.</span>
+<em>(-9%)</em>
+</del>
+
+
+<a class="brand-logo brand-msi" title="Виж всички продукти с марка MSI" href="/brands-msi">Виж всички продукти с марка MSI</a>
+</div>
+<div class='product-footer'>
+<form class="compare-form" id="compare-form-19602" action="/products/toggle_compare?id=19602&amp;model_type=laptop" accept-charset="UTF-8" data-remote="true" method="post"><input name="utf8" type="hidden" value="&#x2713;" />
+<input type="hidden" name="tabname" value="laptop-tab" />
+<input type="hidden" name="id" value="19602" />
+<input type="checkbox" name="compare-checkbox" id="compare-checkbox-19602" value="1" />
+<label for="compare-checkbox-19602">Сравни</label>
+<svg version="1.1" viewBox="0 0 62 62">
+  <circle cx="32" cy="32" r="28"/>
+</svg>
+
+</form>
+
+
+</div>
+<span aria-hidden='true' class='promo-percent'>-9%</span>
+</article>
+</li>
+<li class=' bestseller promo with-percent' id='product_85341'>
+<article>
+<a href='https://laptop.bg/laptops-msi-GL65_Leopard-msi_gl65_leopard_10sfr' title='MSI GL65 Leopard 10SFR'>
+<img alt='Лаптопи MSI GL65 Leopard 10SFR' aria-hidden='true' sizes='(min-width: 54.375em) 12.5em, 5em' src='/system/images/267726/large/msi_gl65_leopard_10sfr.png' srcset='/system/images/267726/small/msi_gl65_leopard_10sfr.png 80w, /system/images/267726/medium/msi_gl65_leopard_10sfr.png 145w, /system/images/267726/large/msi_gl65_leopard_10sfr.png 190w'>
+<h2>MSI GL65 Leopard 10SFR</h2>
+<ul>
+<li>Intel Core i7-10750H</li>
+<li>NVIDIA GeForce RTX 2070</li>
+<li>от 16GB до 64GB DDR4</li>
+<li>от 1512GB (SSD NVMe и HDD) до 3TB (SSD NVMe и HDD)</li>
+</ul>
+</a>
+<div class='gift-container'>
+<h3>В комплект с</h3>
+<ul class='gifts'>
+<li>
+<a title="MSI: Marvel&#39;s Avengers" href="https://laptop.bg/games-msi_marvels_avengers"><img alt="Игри MSI: Marvel&#39;s Avengers" width="40" height="30" src="/system/images/263161/small/msi_marvels_avengers.jpg" /></a>
+</li>
+<li>
+<a title="MSI Gaming Air Backpack" href="https://laptop.bg/bags-msi-msi_gaming_air_backpack"><img alt="Чанти за Лаптопи MSI Gaming Air Backpack" width="40" height="30" src="/system/images/269961/small/MSIGAMINGAIRBACKPACKGIFT.png" /></a>
+</li>
+</ul>
+</div>
+<div class='price-container'>
+<span class='visuallyhidden'>Цена:</span>
+<span class='price'>3099<span class='currency'>лв.</span></span>
+<del>
+<span><span class='visuallyhidden'>Намалено от</span>3599лв.</span>
+<em>(-13%)</em>
+</del>
+
+
+<a class="brand-logo brand-msi" title="Виж всички продукти с марка MSI" href="/brands-msi">Виж всички продукти с марка MSI</a>
+</div>
+<div class='product-footer'>
+<form class="compare-form" id="compare-form-20226" action="/products/toggle_compare?id=20226&amp;model_type=laptop" accept-charset="UTF-8" data-remote="true" method="post"><input name="utf8" type="hidden" value="&#x2713;" />
+<input type="hidden" name="tabname" value="laptop-tab" />
+<input type="hidden" name="id" value="20226" />
+<input type="checkbox" name="compare-checkbox" id="compare-checkbox-20226" value="1" />
+<label for="compare-checkbox-20226">Сравни</label>
+<svg version="1.1" viewBox="0 0 62 62">
+  <circle cx="32" cy="32" r="28"/>
+</svg>
+
+</form>
+
+
+</div>
+<span aria-hidden='true' class='promo-percent'>-13%</span>
+</article>
+</li>
+<li class=' promo with-percent' id='product_83404'>
+<article>
+<a href='https://laptop.bg/laptops-msi-GE66_Raider-msi_ge66_raider_10sgs' title='MSI GE66 Raider 10SGS'>
+<img alt='Лаптопи MSI GE66 Raider 10SGS' aria-hidden='true' sizes='(min-width: 54.375em) 12.5em, 5em' src='/system/images/249080/large/GE66_Raider.png' srcset='/system/images/249080/small/GE66_Raider.png 80w, /system/images/249080/medium/GE66_Raider.png 145w, /system/images/249080/large/GE66_Raider.png 190w'>
+<h2>MSI GE66 Raider 10SGS</h2>
+<ul>
+<li>Intel Core i7-10750H</li>
+<li>NVIDIA GeForce RTX 2080 SUPER Max-Q</li>
+<li>от 32GB до 64GB DDR4</li>
+<li>от 1TB SSD NVMe до 3TB SSD NVMe</li>
+</ul>
+</a>
+<div class='gift-container'>
+<h3>В комплект с</h3>
+<ul class='gifts'>
+<li>
+<a title="MSI: Marvel&#39;s Avengers" href="https://laptop.bg/games-msi_marvels_avengers"><img alt="Игри MSI: Marvel&#39;s Avengers" width="40" height="30" src="/system/images/263161/small/msi_marvels_avengers.jpg" /></a>
+</li>
+</ul>
+</div>
+<div class='price-container'>
+<span class='visuallyhidden'>Цена:</span>
+<span class='price'>5499<span class='currency'>лв.</span></span>
+<del>
+<span><span class='visuallyhidden'>Намалено от</span>6499лв.</span>
+<em>(-15%)</em>
+</del>
+
+
+<a class="brand-logo brand-msi" title="Виж всички продукти с марка MSI" href="/brands-msi">Виж всички продукти с марка MSI</a>
+</div>
+<div class='product-footer'>
+<form class="compare-form" id="compare-form-19696" action="/products/toggle_compare?id=19696&amp;model_type=laptop" accept-charset="UTF-8" data-remote="true" method="post"><input name="utf8" type="hidden" value="&#x2713;" />
+<input type="hidden" name="tabname" value="laptop-tab" />
+<input type="hidden" name="id" value="19696" />
+<input type="checkbox" name="compare-checkbox" id="compare-checkbox-19696" value="1" />
+<label for="compare-checkbox-19696">Сравни</label>
+<svg version="1.1" viewBox="0 0 62 62">
+  <circle cx="32" cy="32" r="28"/>
+</svg>
+
+</form>
+
+
+</div>
+<span aria-hidden='true' class='promo-percent'>-15%</span>
+</article>
+</li>
+<li class=' promo with-percent' id='product_82927'>
+<article>
+<a href='https://laptop.bg/laptops-msi-GE75_RAIDER-msi_ge75_raider_10sgs' title='MSI GE75 Raider 10SGS'>
+<img alt='Лаптопи MSI GE75 Raider 10SGS' aria-hidden='true' sizes='(min-width: 54.375em) 12.5em, 5em' src='/system/images/247249/large/GE75_RAIDER.png' srcset='/system/images/247249/small/GE75_RAIDER.png 80w, /system/images/247249/medium/GE75_RAIDER.png 145w, /system/images/247249/large/GE75_RAIDER.png 190w'>
+<h2>MSI GE75 Raider 10SGS</h2>
+<ul>
+<li>Intel Core i9-10980HK</li>
+<li>NVIDIA GeForce RTX 2080 SUPER</li>
+<li>от 32GB до 64GB DDR4</li>
+<li>2TB (2x 512GB SSD NVMe + 1TB HDD)</li>
+</ul>
+</a>
+<div class='gift-container'>
+<h3>В комплект с</h3>
+<ul class='gifts'>
+<li>
+<a title="MSI: Marvel&#39;s Avengers" href="https://laptop.bg/games-msi_marvels_avengers"><img alt="Игри MSI: Marvel&#39;s Avengers" width="40" height="30" src="/system/images/263161/small/msi_marvels_avengers.jpg" /></a>
+</li>
+</ul>
+</div>
+<div class='price-container'>
+<span class='visuallyhidden'>Цена:</span>
+<span class='price'>6999<span class='currency'>лв.</span></span>
+<del>
+<span><span class='visuallyhidden'>Намалено от</span>7999лв.</span>
+<em>(-12%)</em>
+</del>
+
+
+<a class="brand-logo brand-msi" title="Виж всички продукти с марка MSI" href="/brands-msi">Виж всички продукти с марка MSI</a>
+</div>
+<div class='product-footer'>
+<form class="compare-form" id="compare-form-19600" action="/products/toggle_compare?id=19600&amp;model_type=laptop" accept-charset="UTF-8" data-remote="true" method="post"><input name="utf8" type="hidden" value="&#x2713;" />
+<input type="hidden" name="tabname" value="laptop-tab" />
+<input type="hidden" name="id" value="19600" />
+<input type="checkbox" name="compare-checkbox" id="compare-checkbox-19600" value="1" />
+<label for="compare-checkbox-19600">Сравни</label>
+<svg version="1.1" viewBox="0 0 62 62">
+  <circle cx="32" cy="32" r="28"/>
+</svg>
+
+</form>
+
+
+</div>
+<span aria-hidden='true' class='promo-percent'>-12%</span>
+</article>
+</li>
+<li class='' id='product_85577'>
+<article>
+<a href='https://laptop.bg/laptops-msi-Modern_14_B10-msi_modern_14_b10mw213xbg' title='MSI Modern 14 B10MW-213XBG'>
+<img alt='Лаптопи MSI Modern 14 B10MW-213XBG' aria-hidden='true' sizes='(min-width: 54.375em) 12.5em, 5em' src='/system/images/263508/large/Modern_14_B10.jpg' srcset='/system/images/263508/small/Modern_14_B10.jpg 80w, /system/images/263508/medium/Modern_14_B10.jpg 145w, /system/images/263508/large/Modern_14_B10.jpg 190w'>
+<h2>MSI Modern 14 B10MW-213XBG</h2>
+<ul>
+<li>Intel Core i5-10210U</li>
+<li>Intel UHD Graphics</li>
+<li>от 8GB до 32GB DDR4</li>
+<li>от 512GB SSD NVMe до 2TB SSD NVMe</li>
+</ul>
+</a>
+<div class='price-container'>
+<span class='visuallyhidden'>Цена:</span>
+<span class='price'>1499<span class='currency'>лв.</span></span>
+<a class="brand-logo brand-msi" title="Виж всички продукти с марка MSI" href="/brands-msi">Виж всички продукти с марка MSI</a>
+</div>
+<div class='product-footer'>
+<form class="compare-form" id="compare-form-20281" action="/products/toggle_compare?id=20281&amp;model_type=laptop" accept-charset="UTF-8" data-remote="true" method="post"><input name="utf8" type="hidden" value="&#x2713;" />
+<input type="hidden" name="tabname" value="laptop-tab" />
+<input type="hidden" name="id" value="20281" />
+<input type="checkbox" name="compare-checkbox" id="compare-checkbox-20281" value="1" />
+<label for="compare-checkbox-20281">Сравни</label>
+<svg version="1.1" viewBox="0 0 62 62">
+  <circle cx="32" cy="32" r="28"/>
+</svg>
+
+</form>
+
+
+</div>
+</article>
+</li>
+<li class=' bestseller' id='product_86434'>
+<article>
+<a href='https://laptop.bg/laptops-msi-GF75_Thin-msi_gf75_thin_10ser_9S717F312434' title='MSI GF75 Thin 10SER'>
+<img alt='Лаптопи MSI GF75 Thin 10SER' aria-hidden='true' sizes='(min-width: 54.375em) 12.5em, 5em' src='/system/images/269542/large/msi_gf75_thin_10ser_9S717F312434.png' srcset='/system/images/269542/small/msi_gf75_thin_10ser_9S717F312434.png 80w, /system/images/269542/medium/msi_gf75_thin_10ser_9S717F312434.png 145w, /system/images/269542/large/msi_gf75_thin_10ser_9S717F312434.png 190w'>
+<h2>MSI GF75 Thin 10SER</h2>
+<ul>
+<li>Intel Core i7-10750H</li>
+<li>NVIDIA GeForce RTX 2060</li>
+<li>от 8GB до 64GB DDR4</li>
+<li>от 512GB SSD NVMe до 3TB (SSD NVMe и HDD)</li>
+</ul>
+</a>
+<div class='gift-container'>
+<h3>В комплект с</h3>
+<ul class='gifts'>
+<li>
+<a title="MSI: Marvel&#39;s Avengers" href="https://laptop.bg/games-msi_marvels_avengers"><img alt="Игри MSI: Marvel&#39;s Avengers" width="40" height="30" src="/system/images/263161/small/msi_marvels_avengers.jpg" /></a>
+</li>
+<li>
+<a title="MSI Gaming Mouse M99" href="https://laptop.bg/mice-msi-msi_gaming_mouse_m99"><img alt="Мишки MSI Gaming Mouse M99" width="40" height="30" src="/system/images/269960/small/msi_gaming_mouse_m99_gift.png" /></a>
+</li>
+</ul>
+</div>
+<div class='price-container'>
+<span class='visuallyhidden'>Цена:</span>
+<span class='price'>2599<span class='currency'>лв.</span></span>
+<a class="brand-logo brand-msi" title="Виж всички продукти с марка MSI" href="/brands-msi">Виж всички продукти с марка MSI</a>
+</div>
+<div class='product-footer'>
+<form class="compare-form" id="compare-form-20410" action="/products/toggle_compare?id=20410&amp;model_type=laptop" accept-charset="UTF-8" data-remote="true" method="post"><input name="utf8" type="hidden" value="&#x2713;" />
+<input type="hidden" name="tabname" value="laptop-tab" />
+<input type="hidden" name="id" value="20410" />
+<input type="checkbox" name="compare-checkbox" id="compare-checkbox-20410" value="1" />
+<label for="compare-checkbox-20410">Сравни</label>
+<svg version="1.1" viewBox="0 0 62 62">
+  <circle cx="32" cy="32" r="28"/>
+</svg>
+
+</form>
+
+
+</div>
+</article>
+</li>
+
+</ul>
+
+<i class='loading-icon'>
+<svg version="1.1" viewBox="0 0 62 62">
+  <circle cx="32" cy="32" r="28"/>
+</svg>
+
+</i>
+</main>
+</div><div aria-live='polite' class='alert-container'>
+<template>
+<div aria-hidden='true' class='alert' id='price-alert' role='alert'>
+<p>
+Към цената бяха добавени <span class="price"><span>0</span>лв.</span>
+</p>
+<button class='close' type='button'>
+<span>затвори</span>
+</button>
+</div>
+<div aria-hidden='true' class='alert' id='cart-alert' role='alert'>
+<p>
+Продуктът беше добавен в кошницата
+</p>
+<p>
+<a class='arrow-after' href='/cart'>към количката</a>
+</p>
+<button class='close' type='button'>
+<span>затвори</span>
+</button>
+</div>
+<div aria-hidden='true' class='alert' id='compare-alert' role='alert'>
+<p>
+Продуктът беше добавен за сравнение
+</p>
+<p>
+<a class="arrow-after" href="#">сравни продуктите</a>
+</p>
+<button class='close' type='button'>
+<span>затвори</span>
+</button>
+</div>
+<div aria-hidden='true' class='alert' id='compare-error-alert' role='alert'>
+<p>Не можете да добавите повече от 4 продукта за сравнение.</p>
+<button class='close'>
+<span>затвори</span>
+</button>
+</div>
+<div aria-hidden='true' class='alert' id='checkout-leasing-alert' role='alert'>
+<p>Месечната вноска беше актуализирана.</p>
+<button class='close'>
+<span>затвори</span>
+</button>
+</div>
+</template>
+</div><section class='last-visited'>
+<div class='frame new-look'>
+<h2>Последно разглеждани продукти</h2>
+<ul class='products tiny'>
+<li class=' promo'>
+<a href='https://laptop.bg/laptops-lenovo-ThinkBook_14-lenovo_thinkbook_14_iil_20SL00QJBM' title='Lenovo ThinkBook 14 IIL'>
+<img alt='Лаптопи Lenovo ThinkBook 14 IIL' aria-hidden='true' class='lazyload' data-sizes='(min-width: 50em) 9.0625em, 5em' data-src='/system/images/240165/medium/ThinkBook_14.png' data-srcset='/system/images/240165/small/ThinkBook_14.png 80w, /system/images/240165/medium/ThinkBook_14.png 145w, /system/images/240165/large/ThinkBook_14.png 190w'>
+<svg version="1.1" viewBox="0 0 62 62">
+  <circle cx="32" cy="32" r="28"/>
+</svg>
+
+<h3>Lenovo ThinkBook 14 IIL</h3>
+<p class='price-container'>
+<span class='visuallyhidden'>Цена:</span><span class='price'>1419<span class='currency'>лв.</span></span><del>
+<span class='visuallyhidden'>Вместо</span>
+1599лв.
+</del>
+</p>
+</a>
+</li>
+<li class=' promo'>
+<a href='https://laptop.bg/laptops-msi-Modern_14_B10-msi_modern_14_b10mw_9S714D111211' title='MSI Modern 14 B10MW'>
+<img alt='Лаптопи MSI Modern 14 B10MW' aria-hidden='true' class='lazyload' data-sizes='(min-width: 50em) 9.0625em, 5em' data-src='/system/images/263536/medium/msi_modern_14_b10mw_9S714D111211.jpg' data-srcset='/system/images/263536/small/msi_modern_14_b10mw_9S714D111211.jpg 80w, /system/images/263536/medium/msi_modern_14_b10mw_9S714D111211.jpg 145w, /system/images/263536/large/msi_modern_14_b10mw_9S714D111211.jpg 190w'>
+<svg version="1.1" viewBox="0 0 62 62">
+  <circle cx="32" cy="32" r="28"/>
+</svg>
+
+<h3>MSI Modern 14 B10MW</h3>
+<p class='price-container'>
+<span class='visuallyhidden'>Цена:</span><span class='price'>1399<span class='currency'>лв.</span></span><del>
+<span class='visuallyhidden'>Вместо</span>
+1499лв.
+</del>
+</p>
+</a>
+</li>
+<li class=' promo'>
+<a href='https://laptop.bg/laptops-dell-Inspiron_5401-dell_inspiron_5401' title='Dell Inspiron 5401'>
+<img alt='Лаптопи Dell Inspiron 5401' aria-hidden='true' class='lazyload' data-sizes='(min-width: 50em) 9.0625em, 5em' data-src='/system/images/260369/medium/Inspiron_5401.jpg' data-srcset='/system/images/260369/small/Inspiron_5401.jpg 80w, /system/images/260369/medium/Inspiron_5401.jpg 145w, /system/images/260369/large/Inspiron_5401.jpg 190w'>
+<svg version="1.1" viewBox="0 0 62 62">
+  <circle cx="32" cy="32" r="28"/>
+</svg>
+
+<h3>Dell Inspiron 5401</h3>
+<p class='price-container'>
+<span class='visuallyhidden'>Цена:</span><span class='price'>1849<span class='currency'>лв.</span></span><del>
+<span class='visuallyhidden'>Вместо</span>
+1999лв.
+</del>
+</p>
+</a>
+</li>
+<li class=' promo'>
+<a href='https://laptop.bg/archive/laptops-dell-Vostro_5490-dell_vostro_5490_N4109VN5490EMEA01_2005_UBU' title='Dell Vostro 5490'>
+<img alt='Лаптопи Dell Vostro 5490' aria-hidden='true' class='lazyload' data-sizes='(min-width: 50em) 9.0625em, 5em' data-src='/system/images/230829/medium/Vostro_5490.jpg' data-srcset='/system/images/230829/small/Vostro_5490.jpg 80w, /system/images/230829/medium/Vostro_5490.jpg 145w, /system/images/230829/large/Vostro_5490.jpg 190w'>
+<svg version="1.1" viewBox="0 0 62 62">
+  <circle cx="32" cy="32" r="28"/>
+</svg>
+
+<h3>Dell Vostro 5490</h3>
+<p class='price-container'>
+<span class='visuallyhidden'>Цена:</span><span class='price'>1749<span class='currency'>лв.</span></span><del>
+<span class='visuallyhidden'>Вместо</span>
+1899лв.
+</del>
+</p>
+</a>
+</li>
+<li class=' promo'>
+<a href='https://laptop.bg/laptops-hp-ProBook_450_G7-hp_probook_450_g7_8VU58EA' title='HP ProBook 450 G7'>
+<img alt='Лаптопи HP ProBook 450 G7' aria-hidden='true' class='lazyload' data-sizes='(min-width: 50em) 9.0625em, 5em' data-src='/system/images/243755/medium/ProBook_450_G7.jpg' data-srcset='/system/images/243755/small/ProBook_450_G7.jpg 80w, /system/images/243755/medium/ProBook_450_G7.jpg 145w, /system/images/243755/large/ProBook_450_G7.jpg 190w'>
+<svg version="1.1" viewBox="0 0 62 62">
+  <circle cx="32" cy="32" r="28"/>
+</svg>
+
+<h3>HP ProBook 450 G7</h3>
+<p class='price-container'>
+<span class='visuallyhidden'>Цена:</span><span class='price'>2099<span class='currency'>лв.</span></span><del>
+<span class='visuallyhidden'>Вместо</span>
+2399лв.
+</del>
+</p>
+</a>
+</li>
+<li class=' promo'>
+<a href='https://laptop.bg/archive/laptops-dell-Vostro_5490-dell_vostro_5490_N4109VN5490EMEA01_2005_UBU12GB256SSD' title='Dell Vostro 5490'>
+<img alt='Лаптопи Dell Vostro 5490' aria-hidden='true' class='lazyload' data-sizes='(min-width: 50em) 9.0625em, 5em' data-src='/system/images/230829/medium/Vostro_5490.jpg' data-srcset='/system/images/230829/small/Vostro_5490.jpg 80w, /system/images/230829/medium/Vostro_5490.jpg 145w, /system/images/230829/large/Vostro_5490.jpg 190w'>
+<svg version="1.1" viewBox="0 0 62 62">
+  <circle cx="32" cy="32" r="28"/>
+</svg>
+
+<h3>Dell Vostro 5490</h3>
+<p class='price-container'>
+<span class='visuallyhidden'>Цена:</span><span class='price'>1899<span class='currency'>лв.</span></span><del>
+<span class='visuallyhidden'>Вместо</span>
+2099лв.
+</del>
+</p>
+</a>
+</li>
+</ul>
+</div>
+</section><i class='loading-icon'>
+<svg version="1.1" viewBox="0 0 62 62">
+  <circle cx="32" cy="32" r="28"/>
+</svg></i>
+</div>
+<footer>
+<div class='footer-contacts'>
+<div class='frame'>
+<ul>
+<li class='phone'>
+<a href="tel:+35924901111"><i>
+<span class='icon-only fa-phone'></span>
+</i>
+02 490 11 11
+</a></li>
+<li class='email'>
+<a href="mailto:office@laptop.bg"><span class='icon-only fa-at'></span>
+office@laptop.bg
+</a></li>
+<li class='chat'>
+<a target="_blank" rel="noreferer noopener" href="https://m.me/laptop.bg"><img alt="" width="40" height="40" src="/assets/logos/messanger-logo-3cfb8ca0aa08ce0d8844d9944ff5ffc8d4932ab78f8cf9d411d9bf78de86e383.svg" />
+Започнете чат
+</a></li>
+<li class='working-hours'>
+<span>
+<span class='icon-only fa-clock-o'></span>
+Делнични дни
+<span>&nbsp;&mdash;&nbsp;</span>
+9:30 - 18:30
+</span>
+</li>
+</ul>
+</div>
+</div>
+<nav role='navigation'>
+<div class='frame'>
+<ul>
+<li>
+<h2>Често задавани въпроси</h2>
+<ul>
+<li>
+<a href="https://laptop.bg/pages/pay">Плащане</a>
+</li>
+<li>
+<a href="https://laptop.bg/pages/delivery">Доставка</a>
+</li>
+<li>
+<a class="external" href="https://www.econt.com/services/track-shipment">Проследяване на пратка</a>
+</li>
+<li>
+<a href="https://laptop.bg/pages/returns">Връщане и замяна</a>
+</li>
+<li>
+<a href="https://laptop.bg/pages/warranty">Гаранция</a>
+</li>
+<li>
+<a href="/pages/services">Сервизи</a>
+</li>
+<li>
+<a href="https://laptop.bg/pages/faq">Още често задавани въпроси</a>
+</li>
+</ul>
+</li>
+<li>
+<h2>За нас</h2>
+<ul>
+<li>
+<a href="https://laptop.bg/pages/aboutus">За Лаптоп.БГ ООД</a>
+</li>
+<li>
+<a href="https://laptop.bg/pages/contact">Контакти</a>
+</li>
+<li>
+<a href="https://laptop.bg/pages/terms-and-conditions">Общи условия</a>
+</li>
+<li>
+<a href="https://laptop.bg/pages/privacy-policy">Политика за поверителност</a>
+</li>
+<li>
+<a href="https://laptop.bg/pages/cookie-policy">Политика за бисквитки</a>
+</li>
+<li>
+<a href="https://laptop.bg/pages/cookie-settings">Настройки за бисквитки</a>
+</li>
+</ul>
+</li>
+<li>
+<h2>Продукти</h2>
+<ul>
+<li>
+<a href="/archive">Архив</a>
+</li>
+<li>
+<a href="/discounts">Преоценени продукти</a>
+</li>
+<li>
+<a href="/pages/digital_care">Удължена гаранция</a>
+</li>
+<li>
+<a href="/pages/digital_care">Допълнителна застраховка</a>
+</li>
+</ul>
+</li>
+</ul>
+</div>
+</nav>
+<div class='payments-and-delivery-logos'>
+<div class='frame'>
+<span>
+<span class='visuallyhidden'>Приемам плащания с</span>
+<img alt="Visa" width="40" height="25" src="/assets/payment_methods/visa-84523122badba8ddd425f5b40189fb89006ecd95664de008ba63340cce3aa6b3.svg" />
+<img alt="Mastercard" width="40" height="25" src="/assets/payment_methods/mastercard-89c04c4c02d32aed886c1a6c0e7f151426842cfeed2465acb4932f00d01f6eba.svg" />
+<img alt="Maestro" width="40" height="25" src="/assets/payment_methods/maestro-a328facd3b2fd2df5bfccacfecf1fad1ed16c7af29997aefc5bcb89ff0f531bd.svg" />
+<img alt="American Express" width="40" height="25" src="/assets/payment_methods/amex-3721f65be3f37b0d8be546b8323c93906a91d7970016e0b33a004d894a96d184.svg" />
+<img alt="Diners Club" width="40" height="25" src="/assets/payment_methods/diners-d2acd43e9b959cdf71d9b6d8a1c9ad52209b0e9824c37af665da99d42d7e5c97.svg" />
+<img alt="Apple Pay" width="40" height="25" src="/assets/payment_methods/apple-pay-9879f195b0556b6832360eba68d2b845a30b53fbc3ab9ae6c27b01b4073de5bf.svg" />
+<img alt="Google Pay" width="40" height="25" src="/assets/payment_methods/google-pay-2639f67337e0340811a91cffe830334a1c18cd63c39b89037dce0131c2d9ca48.svg" />
+<img alt="ePay" width="40" height="25" src="/assets/payment_methods/epay-4938f79a96b40e278778ccfae999a816388757fb693bc52d68fd7e708dd9788b.svg" />
+<img alt="Наложен платеж" width="40" height="25" src="/assets/payment_methods/cash-on-delivery-025b7cede7f589a6caea13c7bd80f99720e1c5f85984e318952fb5ac2693124d.svg" />
+<img alt="Банков превод" width="40" height="25" src="/assets/payment_methods/bank-transfer-aee311aae029326897a786430716af35f8edaeb0834631609baab37c2b8f0273.svg" />
+</span>
+<span>
+<span>
+Доставяме с
+<img alt="Еконт" width="74" height="18" src="/assets/payment_methods/econt-ce3260938d30aee8da85ce54d5b1dfcf8e5ff5d23aac5ee3ce7a280b9ec5895f.svg" />
+</span>
+<span>
+Лизинг от
+<img alt="BNP Pariba" width="123" height="23" src="/assets/payment_methods/bnp-7b4e21b7e47b61f1047fb80f2bd8828d881fe302525c38aca4fb8c87ae7018d1.png" />
+</span>
+</span>
+</div>
+</div>
+<nav class='external'>
+<div class='frame'>
+<div>
+<ul>
+<li>
+<a href="https://tablet.bg/tablets">Таблети</a>
+</li>
+<li>
+<a href="https://tablet.bg/ereaders">Електронни четци</a>
+</li>
+<li>
+<a href="https://tablet.bg/graphical_tablets">Графични таблети</a>
+</li>
+<li>
+<a href="https://tablet.bg/tablet_sleeves">Калъфи и Чанти</a>
+</li>
+<li>
+<a href="https://tablet.bg/headphones">Аксесоари</a>
+</li>
+</ul>
+<ul>
+<li>
+<a href="https://smartphone.bg/smartphones">Смартфони</a>
+</li>
+<li>
+<a href="https://smartphone.bg/smartphone_sleeves">Калъфи</a>
+</li>
+<li>
+<a href="https://smartphone.bg/microsds">Карти и Аксесоари</a>
+</li>
+<li>
+<a href="https://smartphone.bg/phones">Класически телефони</a>
+</li>
+<li>
+<a href="https://smartphone.bg/headphones">Слушалки и Handsfree</a>
+</li>
+<li>
+<a href="https://smartphone.bg/smartphone_batteries-all?utf8=%E2%9C%93&amp;price_btw_all=all&amp;search%5Bprice_gte%5D=&amp;search%5Bprice_lte%5D=&amp;brand_id_in_all=all&amp;basic_color_id_in_all=all&amp;capacity_size_btw_all=all&amp;compability_id_in_all=all&amp;search%5Bexternal_battery_eq%5D=1&amp;warranty_size_btw_all=all&amp;per_page=27&amp;search%5Bs%5D=promo_asc">Външни батерии</a>
+</li>
+<li>
+<a href="https://smartphone.bg/speakers-all?utf8=%E2%9C%93&amp;price_btw_all=all&amp;search%5Bprice_gte%5D=&amp;search%5Bprice_lte%5D=&amp;brand_id_in_all=all&amp;channels_id_in_all=all&amp;category_id_in_all=all&amp;search%5Bcategory_id_in%5D%5B%5D=1&amp;power_size_btw_all=all&amp;warranty_size_btw_all=all&amp;per_page=27&amp;search%5Bmeta_sort%5D=promo_asc">Колонки за смартфон</a>
+</li>
+</ul>
+<ul>
+<li>
+<a href="https://smartwatch.bg/smartwatches">Смарт часовници</a>
+</li>
+<li>
+<a href="https://smartwatch.bg/smartbands">Гривни</a>
+</li>
+<li>
+<a href="https://smartwatch.bg/body_scales">Тракери</a>
+</li>
+<li>
+<a href="https://smartwatch.bg/watches">Часовници</a>
+</li>
+<li>
+<a href="https://smartwatch.bg/smart_gadgets">Smart Home</a>
+</li>
+</ul>
+<ul>
+<li>
+<a href="https://desktop.bg/grigs">G:RIGS гейминг конфигурации</a>
+</li>
+<li>
+<a href="https://desktop.bg/computers">Компютри за дома и офиса </a>
+</li>
+<li>
+<a href="https://desktop.bg/displays">Монитори</a>
+</li>
+<li>
+<a href="https://desktop.bg/printers">Принтери и Консумативи</a>
+</li>
+</ul>
+<ul>
+<li>
+<a href="https://photocamera.bg/dslrs">DSLR и Обективи</a>
+</li>
+<li>
+<a href="https://photocamera.bg/mirrorles">Mirrorless и Обективи</a>
+</li>
+<li>
+<a href="https://photocamera.bg/extreme_cameras">Екстремни и Компактни</a>
+</li>
+<li>
+<a href="https://photocamera.bg/videocameras">Видеокамери и Blackmagic</a>
+</li>
+<li>
+<a href="https://photocamera.bg/drones">Дронове</a>
+</li>
+<li>
+<a href="https://photocamera.bg/binoculars">Оптични продукти</a>
+</li>
+</ul>
+</div>
+</div>
+</nav>
+<div class='copyright' role='contentinfo'>
+<div class='frame'>
+2020
+<span>Laptop.bg &reg;</span>
+<a href='http://creativecommons.org/licenses/by/3.0/deed.bg'>
+Някои права запазени
+</a>
+<a class="icon-only fa-chevron-up" id="gototop" href="#">Върни се горе</a>
+</div>
+</div>
+</footer>
+<div class='visuallyhidden'>
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="promo-gradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#E43723; stop-opacity:1"/>
+      <stop offset="100%" style="stop-color:#E20CA7; stop-opacity:1"/>
+    </linearGradient>
+    <linearGradient id="new-gradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#14BAAA; stop-opacity:1"/>
+      <stop offset="100%" style="stop-color:#58AE16; stop-opacity:1"/>
+    </linearGradient>
+    <linearGradient id="preorder-gradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#ff9600; stop-opacity:1"/>
+      <stop offset="100%" style="stop-color:#f2b600; stop-opacity:1"/>
+    </linearGradient>
+    <filter id="greyscale">
+      <feColorMatrix type="saturate" values="0"/>
+    </filter>
+    <filter id="header-drop-shadow">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="1 7" />
+      <feOffset dx="0" dy="2" />
+      <feMerge>
+          <feMergeNode in="SourceGraphic" />
+          <feMergeNode />
+      </feMerge>
+    </filter>
+    <filter id="blur2px">
+      <feGaussianBlur stdDeviation="2" in="SourceGraphic"></feGaussianBlur>
+    </filter>
+  </defs>
+</svg>
+
+</div></body></html>
