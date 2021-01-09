@@ -1,2 +1,2 @@
 # WebCrawler
-A basic C# web crawler using regular expressions to extract model name, cpu and price of laptops in www.laptop.bg.
+A basic C# web crawler that uses regular expressions to extract Model name, CPU and Price of laptops from www.laptop.bg.
